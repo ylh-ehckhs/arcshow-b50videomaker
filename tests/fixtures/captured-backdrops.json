@@ -1,0 +1,60 @@
+{
+  "overview": [
+    {
+      "align": "left",
+      "background": "#000000",
+      "color": "",
+      "fontFamily": "Microsoft YaHei UI",
+      "fontSize": 24,
+      "fontWeight": 400,
+      "h": 705,
+      "id": "overview",
+      "label": "总览区黑底",
+      "opacity": 0.55,
+      "padding": 0,
+      "radius": 10,
+      "visible": true,
+      "w": 1780,
+      "x": 80,
+      "y": 225
+    }
+  ],
+  "song": [
+    {
+      "align": "left",
+      "background": "#000000",
+      "color": "",
+      "fontFamily": "Microsoft YaHei UI",
+      "fontSize": 24,
+      "fontWeight": 400,
+      "h": 320,
+      "id": "results",
+      "label": "成绩区黑底",
+      "opacity": 0.55,
+      "padding": 0,
+      "radius": 10,
+      "visible": true,
+      "w": 568,
+      "x": 1270,
+      "y": 220
+    },
+    {
+      "align": "left",
+      "background": "#000000",
+      "color": "",
+      "fontFamily": "Microsoft YaHei UI",
+      "fontSize": 24,
+      "fontWeight": 400,
+      "h": 340,
+      "id": "3dea2372-993f-4cd1-a25a-ea8281e03362",
+      "label": "黑底 2",
+      "opacity": 0.55,
+      "padding": 0,
+      "radius": 10,
+      "visible": true,
+      "w": 568,
+      "x": 1270,
+      "y": 560
+    }
+  ]
+}

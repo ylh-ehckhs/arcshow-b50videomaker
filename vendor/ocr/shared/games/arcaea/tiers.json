@@ -1,0 +1,5614 @@
+{
+  "version": 1,
+  "source": "用户提供的「复制粘贴arcaea定数表.txt」（555 首，卡面为 2-3-3 分隔格式）",
+  "updatedAt": "2026-10-05T03:27:07.189Z",
+  "entries": [
+    {
+      "title": "Testify",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 7.8,
+        "PRS": 9.4,
+        "FTR": 10.9,
+        "BYD": 12
+      },
+      "aliases": [
+        "证词"
+      ]
+    },
+    {
+      "title": "DEINOS PHAINEIN",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 7.5,
+        "PRS": 9.6,
+        "FTR": 10.9,
+        "INS": 12
+      }
+    },
+    {
+      "title": "Designant.",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 7.5,
+        "PRS": 9.6,
+        "FTR": 10.9,
+        "BYD": 11.9
+      }
+    },
+    {
+      "title": "Cataclysm Cry",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 6.5,
+        "PRS": 8.8,
+        "FTR": 10.6,
+        "INS": 11.8
+      }
+    },
+    {
+      "title": "Tempestissimo",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 7,
+        "PRS": 9.5,
+        "FTR": 10.7,
+        "BYD": 11.7
+      }
+    },
+    {
+      "title": "Arcana Eden",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.7,
+        "FTR": 10.5,
+        "BYD": 11.6
+      }
+    },
+    {
+      "title": "Pentiment",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 7,
+        "PRS": 8.7,
+        "FTR": 10.4,
+        "BYD": 11.5
+      }
+    },
+    {
+      "title": "Aether Crest: Astral",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 6,
+        "PRS": 8.9,
+        "FTR": 10.6,
+        "ETR": 11.5
+      }
+    },
+    {
+      "title": "Riven Pilgrimage",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.5,
+        "FTR": 10.4,
+        "INS": 11.5
+      }
+    },
+    {
+      "title": "Lament Rain",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 6.5,
+        "PRS": 8.8,
+        "FTR": 10.6,
+        "BYD": 11.4
+      }
+    },
+    {
+      "title": "DREAD AREA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.3,
+        "FTR": 10.3,
+        "INS": 11.4
+      }
+    },
+    {
+      "title": "Abstruse Dilemma",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.9,
+        "FTR": 11.3
+      }
+    },
+    {
+      "title": "Arghena",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 7.5,
+        "PRS": 9.6,
+        "FTR": 11.3
+      }
+    },
+    {
+      "title": "ALTER EGO",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 6.5,
+        "PRS": 9.2,
+        "FTR": 10.5,
+        "ETR": 11.3
+      }
+    },
+    {
+      "title": "Extradimensional Cosmic Phenomenon",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 6.5,
+        "PRS": 8.8,
+        "FTR": 10.6,
+        "ETR": 11.3
+      },
+      "aliases": [
+        "tajigen uchuu yuugouron",
+        "多次元宇宙融合論"
+      ]
+    },
+    {
+      "title": "Aegleseeker",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 9.1,
+        "FTR": 11.2
+      }
+    },
+    {
+      "title": "Grievous Lady",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 6.5,
+        "PRS": 9.3,
+        "FTR": 11.1
+      }
+    },
+    {
+      "title": "Fracture Ray",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 6,
+        "PRS": 9.5,
+        "FTR": 11.1
+      }
+    },
+    {
+      "title": "#1f1e33",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 9.2,
+        "FTR": 11.1
+      }
+    },
+    {
+      "title": "World Ender",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10,
+        "BYD": 11.1
+      },
+      "aliases": [
+        "魔王"
+      ]
+    },
+    {
+      "title": "DIE IN",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.3,
+        "FTR": 10.3,
+        "ETR": 11.1
+      }
+    },
+    {
+      "title": "SAIKYO STRONGER",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 9.4,
+        "FTR": 11
+      },
+      "aliases": [
+        "最強STRONGER"
+      ]
+    },
+    {
+      "title": "LAMIA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.5,
+        "FTR": 11
+      }
+    },
+    {
+      "title": "Undying Macula",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.7,
+        "FTR": 10.1,
+        "ETR": 11
+      }
+    },
+    {
+      "title": "Misdeed -la bonté de Dieu et l'origine du mal-",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.5,
+        "FTR": 10.9
+      },
+      "aliases": [
+        "Misdeed -la bonte de Dieu et l'origine du mal-",
+        "業 -善なる神とこの世の悪について-"
+      ]
+    },
+    {
+      "title": "Infinite Strife,",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.9,
+        "BYD": 10.9
+      },
+      "aliases": [
+        "逗号",
+        "无限冲突",
+        "死敌"
+      ]
+    },
+    {
+      "title": "TEmPTaTiON",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.2,
+        "FTR": 10.9
+      }
+    },
+    {
+      "title": "CHAOS",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 7.5,
+        "FTR": 10.9
+      }
+    },
+    {
+      "title": "Vulcānus",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.5,
+        "FTR": 10.9
+      },
+      "aliases": [
+        "Vulcanus"
+      ]
+    },
+    {
+      "title": "And Revive The Melody",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.5,
+        "FTR": 10.9
+      }
+    },
+    {
+      "title": "Breach of Faith",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.4,
+        "FTR": 10.3,
+        "BYD": 10.9
+      }
+    },
+    {
+      "title": "DA'AT -The First Seeker of Souls-",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.4,
+        "FTR": 10.9
+      }
+    },
+    {
+      "title": "ViRTUS",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.6,
+        "FTR": 9.9,
+        "ETR": 10.9
+      }
+    },
+    {
+      "title": "MEGALOVANIA (Camellia Remix)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.4,
+        "FTR": 9.8,
+        "ETR": 10.9
+      }
+    },
+    {
+      "title": "We're All Gonna Die",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8,
+        "FTR": 10.1,
+        "ETR": 10.9
+      }
+    },
+    {
+      "title": "Welcome, Queen of Fiction.",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.5,
+        "FTR": 10.1,
+        "ETR": 10.9
+      }
+    },
+    {
+      "title": "Code: Oblivion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.3,
+        "FTR": 9.9,
+        "ETR": 10.9
+      }
+    },
+    {
+      "title": "Acid God",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.9,
+        "ETR": 10.9
+      }
+    },
+    {
+      "title": "un",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.9,
+        "ETR": 10.9
+      }
+    },
+    {
+      "title": "Ringed Genesis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.4,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "Dantalion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.2,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "BUCHiGiRE Berserker",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.6,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "ω4",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.8,
+        "FTR": 10.8
+      },
+      "aliases": [
+        "omega four",
+        "omega4",
+        "w4"
+      ]
+    },
+    {
+      "title": "Divine Light of Myriad",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.8
+      },
+      "aliases": [
+        "光速神授説 - Divine Light of Myriad -"
+      ]
+    },
+    {
+      "title": "GENOCIDER",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.9,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "Stasis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "PRIMITIVE LIGHTS",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.8,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "Spider's Thread",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.8
+      },
+      "aliases": [
+        "蜘蛛の糸"
+      ]
+    },
+    {
+      "title": "͟͝͞Ⅱ́̕",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.9,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "TeraVolt",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.9,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "Meta-Mysteria",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 7.8,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "Distorted Fate",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.6,
+        "ETR": 10.8
+      }
+    },
+    {
+      "title": "Désive",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8,
+        "FTR": 9.9,
+        "ETR": 10.8
+      },
+      "aliases": [
+        "desive",
+        "Desive"
+      ]
+    },
+    {
+      "title": "Black MInD",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8,
+        "FTR": 10.8
+      }
+    },
+    {
+      "title": "Nightmare",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.8,
+        "ETR": 10.8
+      }
+    },
+    {
+      "title": "Lilly",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.4,
+        "FTR": 9.9,
+        "ETR": 10.8
+      }
+    },
+    {
+      "title": "ANDORXOR",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.9,
+        "ETR": 10.8
+      }
+    },
+    {
+      "title": "MARENYX",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.5,
+        "ETR": 10.8
+      }
+    },
+    {
+      "title": "chronologia",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.8,
+        "ETR": 10.8
+      }
+    },
+    {
+      "title": "ouroboros -twin stroke of the end-",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10.7
+      }
+    },
+    {
+      "title": "Cyaegha",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.4,
+        "FTR": 10.7
+      }
+    },
+    {
+      "title": "World Vanquisher",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 10.7
+      }
+    },
+    {
+      "title": "AMAZING MIGHTYYYY!!!!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.7
+      }
+    },
+    {
+      "title": "REKKA RESONANCE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.9,
+        "FTR": 10.7
+      },
+      "aliases": [
+        "烈華RESONANCE"
+      ]
+    },
+    {
+      "title": "NULL APOPHENIA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.8,
+        "FTR": 10.7
+      }
+    },
+    {
+      "title": "KYOREN ROMANCE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.7
+      },
+      "aliases": [
+        "狂恋ROMANCE"
+      ]
+    },
+    {
+      "title": "Inverted World",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.5,
+        "ETR": 10.7
+      }
+    },
+    {
+      "title": "Don't Fight The Music",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.3,
+        "ETR": 10.7
+      }
+    },
+    {
+      "title": "AlterGate",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.7,
+        "FTR": 10.7
+      }
+    },
+    {
+      "title": "Xterfusion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.3,
+        "FTR": 9.8,
+        "ETR": 10.7
+      }
+    },
+    {
+      "title": "Signal",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.8,
+        "ETR": 10.7
+      }
+    },
+    {
+      "title": "⊥⊬",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 6.5,
+        "PRS": 9.6,
+        "FTR": 10.7
+      },
+      "aliases": [
+        "sacrosanct"
+      ]
+    },
+    {
+      "title": "Axium Crisis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.5,
+        "FTR": 10.6,
+        "BYD": 11.3
+      }
+    },
+    {
+      "title": "cyanine",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "corps-sans-organes",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "AttraqtiA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 8.3,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Overwhelm",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.5,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Seclusion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Live Fast Die Young",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.5,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Good bye, Merry-Go-Round.",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Crimson Throne",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 8,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Manic Jeer",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "[X]",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "UNKNOWN LEVELS",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 8.1,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Back to Basics",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.7,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "MVURBD",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Dies irae",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.5,
+        "ETR": 10.6
+      }
+    },
+    {
+      "title": "Astral Quantization",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.1,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Subsphere in Eclosion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.1,
+        "FTR": 9.6,
+        "ETR": 10.6
+      },
+      "aliases": [
+        "uka suru akyuutai",
+        "羽化する亜球体"
+      ]
+    },
+    {
+      "title": "Desertrealm",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.5,
+        "FTR": 10.6
+      }
+    },
+    {
+      "title": "Singularity",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.5,
+        "BYD": 10.4
+      }
+    },
+    {
+      "title": "Singularity VVVIP",
+      "game": "arcaea",
+      "tiers": {
+        "BYD": 10.4
+      },
+      "aliases": [
+        "Singularity VVVIP"
+      ]
+    },
+    {
+      "title": "Halcyon",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.2,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "GLORY：ROAD",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 10.5
+      },
+      "aliases": [
+        "里红",
+        "光荣之路",
+        "荣耀之路",
+        "王道征途",
+        "王者征途",
+        "GLORY:ROAD"
+      ]
+    },
+    {
+      "title": "GIMME DA BLOOD",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Sheriruth (Laur Remix)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Lightning Screw",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Aurgelmir",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.5,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Chronicle",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.9,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Lucid Traveler",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.9,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Rise of the World",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.1,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Ego Eimi",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.6,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "XTREME",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "eden",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.2,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Wish Upon a Snow",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Aleph-0",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.8,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Twilight Concerto",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.5,
+        "ETR": 10.5
+      },
+      "aliases": [
+        "黄昏の協奏曲"
+      ]
+    },
+    {
+      "title": "10pt8ion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.8,
+        "ETR": 10.5
+      },
+      "aliases": [
+        "temptation"
+      ]
+    },
+    {
+      "title": "Judgement",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.6,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Rain of Conflict in a Radiant Abyss",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 7.8,
+        "FTR": 9.5,
+        "ETR": 10.5
+      }
+    },
+    {
+      "title": "Spirit of the Dauntless",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "Straight into the lights",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.5,
+        "ETR": 10.5
+      }
+    },
+    {
+      "title": "MEGALOVANIA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.5,
+        "ETR": 10.5
+      }
+    },
+    {
+      "title": "Dull Blade",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8,
+        "FTR": 10.5
+      }
+    },
+    {
+      "title": "BlythE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.5,
+        "FTR": 9.4,
+        "ETR": 10.5
+      }
+    },
+    {
+      "title": "CHAOSBLAST",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.6,
+        "ETR": 10.5
+      }
+    },
+    {
+      "title": "Xxium and Purple haze",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 7.8,
+        "FTR": 9.9,
+        "ETR": 10.5
+      }
+    },
+    {
+      "title": "Paranoid Arc",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.6,
+        "ETR": 10.5
+      }
+    },
+    {
+      "title": "Love me, Love me, Love me",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.7,
+        "ETR": 10.5
+      },
+      "aliases": [
+        "aishiteaishiteaishite",
+        "愛して愛して愛して"
+      ]
+    },
+    {
+      "title": "Synthesis.",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 8.2,
+        "FTR": 9.7,
+        "ETR": 10.5
+      }
+    },
+    {
+      "title": "γuarδina",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 8,
+        "FTR": 10.4
+      },
+      "aliases": [
+        "guardina"
+      ]
+    },
+    {
+      "title": "Garakuta Doll Play",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 6.5,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "Felis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "Climax",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "Last Celebration",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "Kissing Lucifer",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "PUPA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "IMPACT",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.8,
+        "FTR": 9.6,
+        "BYD": 10.4
+      }
+    },
+    {
+      "title": "To the Milky Way",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.9,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "Qovat",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.2,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "Lethal Voltage",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "MIRINAE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.3,
+        "FTR": 10.4
+      }
+    },
+    {
+      "title": "Rays of Remnant",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.7,
+        "BYD": 10.4
+      }
+    },
+    {
+      "title": "Placebo♥Battler",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.3,
+        "FTR": 10.4
+      },
+      "aliases": [
+        "purashiibo batora",
+        "プラシイボ♥バトラー"
+      ]
+    },
+    {
+      "title": "Dual Dependency",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.5,
+        "ETR": 10.4
+      }
+    },
+    {
+      "title": "Eternity Break",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.6,
+        "ETR": 10.4
+      }
+    },
+    {
+      "title": "No Way Back",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 8.9,
+        "ETR": 10.4
+      }
+    },
+    {
+      "title": "INCARNATOR₀₀",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.9,
+        "ETR": 10.4
+      },
+      "aliases": [
+        "incarnator origin",
+        "INCARNATOR00"
+      ]
+    },
+    {
+      "title": "The 'Raft' taught me: your heart will always find a way.",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.5,
+        "ETR": 10.4
+      },
+      "aliases": [
+        "ikada ha iu ikura hyouryuu suredo futou no kokoro sae areba yagate yukiitaru to",
+        "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。"
+      ]
+    },
+    {
+      "title": "Melty Rhapsody",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.6,
+        "ETR": 10.4
+      },
+      "aliases": [
+        "merutexi rapusodexi",
+        "メルティーラプソディー"
+      ]
+    },
+    {
+      "title": "Telepathy",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.6,
+        "ETR": 10.4
+      },
+      "aliases": [
+        "terepashi",
+        "テレパシ"
+      ]
+    },
+    {
+      "title": "Metallic Punisher",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 10.3
+      }
+    },
+    {
+      "title": "Ether Strike",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 8.3,
+        "FTR": 10.3
+      }
+    },
+    {
+      "title": "Tiferet",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.3
+      }
+    },
+    {
+      "title": "Ikazuchi",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 10.3
+      },
+      "aliases": [
+        "怒槌"
+      ]
+    },
+    {
+      "title": "IZANA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.3,
+        "FTR": 10.3
+      }
+    },
+    {
+      "title": "To: Alice Liddell",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 10.3
+      },
+      "aliases": [
+        "アリス・リデルに捧ぐ"
+      ]
+    },
+    {
+      "title": "Viyella's Tears",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.3
+      }
+    },
+    {
+      "title": "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 10.3
+      },
+      "aliases": [
+        "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)"
+      ]
+    },
+    {
+      "title": "99 Glooms",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.3
+      },
+      "aliases": [
+        "ninetynine glooms"
+      ]
+    },
+    {
+      "title": "ultradiaxon-N3",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.5,
+        "FTR": 10.3
+      }
+    },
+    {
+      "title": "Dual Doom Deathmatch",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.9,
+        "ETR": 10.3
+      }
+    },
+    {
+      "title": "SUPER AMBULANCE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10.3
+      }
+    },
+    {
+      "title": "8-EM",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.5,
+        "ETR": 10.3
+      }
+    },
+    {
+      "title": "BREaK! BREaK! BREaK!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.8,
+        "ETR": 10.3
+      }
+    },
+    {
+      "title": "ROST PAGE GENE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.2,
+        "FTR": 10.3
+      }
+    },
+    {
+      "title": "zephyrlasting",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.5,
+        "ETR": 10.3
+      }
+    },
+    {
+      "title": "c.s.q.n.",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.6,
+        "ETR": 10.3
+      }
+    },
+    {
+      "title": "Château de cartes",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.4,
+        "ETR": 10.3
+      },
+      "aliases": [
+        "Chateau",
+        "Chateau de cartes"
+      ]
+    },
+    {
+      "title": "Nirv lucE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 7,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "αterlβus",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 10.2
+      },
+      "aliases": [
+        "aterlbus"
+      ]
+    },
+    {
+      "title": "conflict",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "Valhalla:0",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "Malicious Mischance",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "Löschen",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 10.2
+      },
+      "aliases": [
+        "loschen",
+        "Loschen"
+      ]
+    },
+    {
+      "title": "Quon",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.7,
+        "BYD": 10.2
+      },
+      "aliases": [
+        "Quon (2)"
+      ]
+    },
+    {
+      "title": "lastendconductor",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.4,
+        "BYD": 10.2
+      }
+    },
+    {
+      "title": "Redolent Shape",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "NEO WINGS",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "Capella",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "Magnolia",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "Logos",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "Renegade",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.6,
+        "BYD": 10.2
+      }
+    },
+    {
+      "title": "Your Best Nightmare",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.9,
+        "BYD": 10.2
+      },
+      "aliases": [
+        "最高の悪夢"
+      ]
+    },
+    {
+      "title": "Angel's Boundary",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.5,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "Grandspell",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.4,
+        "FTR": 10.2
+      }
+    },
+    {
+      "title": "GOODRAGE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.3,
+        "ETR": 10.2
+      }
+    },
+    {
+      "title": "ASGORE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 8.8,
+        "ETR": 10.2
+      },
+      "aliases": [
+        "azugoa",
+        "アズゴア"
+      ]
+    },
+    {
+      "title": "Override",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.5,
+        "ETR": 10.2
+      },
+      "aliases": [
+        "obaraido",
+        "オーバーライド"
+      ]
+    },
+    {
+      "title": "PRAGMATISM",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.6,
+        "FTR": 10.1,
+        "BYD": 11.2
+      }
+    },
+    {
+      "title": "G e n g a o z o",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 8.1,
+        "FTR": 10.1
+      }
+    },
+    {
+      "title": "Medusa",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 10.1
+      }
+    },
+    {
+      "title": "Trrricksters!!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10.1
+      }
+    },
+    {
+      "title": "Kanbu de Tomatte Sugu Tokeru",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 10.1
+      },
+      "aliases": [
+        "kyouki no udongein",
+        "患部で止まってすぐ溶ける　〜 狂気の優曇華院"
+      ]
+    },
+    {
+      "title": "Gensou no Satellite",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 8.7,
+        "ETR": 10.1
+      },
+      "aliases": [
+        "gensounosateraito",
+        "幻想のサテライト"
+      ]
+    },
+    {
+      "title": "BlazinG AIR",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.9,
+        "ETR": 10.1
+      }
+    },
+    {
+      "title": "Don't Die",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.4,
+        "ETR": 10.1
+      }
+    },
+    {
+      "title": "OBLIVION",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.5,
+        "ETR": 10.1
+      }
+    },
+    {
+      "title": "INFINITE DIMENSION",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.6,
+        "ETR": 10.1
+      }
+    },
+    {
+      "title": "My life is mine alone!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.8,
+        "ETR": 10.1
+      }
+    },
+    {
+      "title": "Cryogenic",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 7.5,
+        "FTR": 9.2,
+        "ETR": 10.1
+      }
+    },
+    {
+      "title": "Riot in the System",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.5,
+        "ETR": 10.1
+      }
+    },
+    {
+      "title": "Sucromania",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.1,
+        "ETR": 10.1
+      },
+      "aliases": [
+        "zaramenokiwami",
+        "ザラメノキワミ"
+      ]
+    },
+    {
+      "title": "Balor",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.5,
+        "ETR": 10.1
+      }
+    },
+    {
+      "title": "Sheriruth",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5.5,
+        "PRS": 7.5,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Alexandrite",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Scarlet Lance",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Vicious Heroism",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 10,
+        "BYD": 11.2
+      }
+    },
+    {
+      "title": "Xanatos",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Oshama Scramble!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Bamboo",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 10
+      },
+      "aliases": [
+        "竹"
+      ]
+    },
+    {
+      "title": "HIVEMIND",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 8.6,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Free Myself",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "INTERNET YAMERO",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Masquerade Legion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Chromafill",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Third Sun",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.4,
+        "ETR": 10
+      }
+    },
+    {
+      "title": "TRPNO",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "Liar",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 10
+      }
+    },
+    {
+      "title": "ΛZΛLEΛ",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.4,
+        "ETR": 10
+      },
+      "aliases": [
+        "azalea"
+      ]
+    },
+    {
+      "title": "God-ish",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.3,
+        "ETR": 10
+      },
+      "aliases": [
+        "kamippoina",
+        "神っぽいな"
+      ]
+    },
+    {
+      "title": "Modelista",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "trappola bewitching",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.9,
+        "BYD": 10.6
+      },
+      "aliases": [
+        "妖艶魔女 -trappola bewitching-"
+      ]
+    },
+    {
+      "title": "Nhelv",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.9,
+        "BYD": 10.9
+      }
+    },
+    {
+      "title": "Heavensdoor",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.9,
+        "BYD": 10.8
+      }
+    },
+    {
+      "title": "Mirzam",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Antagonism",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Arcahv",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Galaxy Friends",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "7thSense",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.8,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Summer Fireworks of Love",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.9
+      },
+      "aliases": [
+        "彩る夏の恋花火"
+      ]
+    },
+    {
+      "title": "Trap Crow",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Astra walkthrough",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "MAXRAGE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "The Survivor (Game Edit)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "New York Back Raise",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Devillic Sphere",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Ultimate taste",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Amekagura",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.9
+      },
+      "aliases": [
+        "雨神楽"
+      ]
+    },
+    {
+      "title": "Beautiful Dreamer",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "STARGATE EXTREME",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6,
+        "FTR": 9.3,
+        "ETR": 9.9
+      }
+    },
+    {
+      "title": "Distortion Human",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.9
+      },
+      "aliases": [
+        "ディストーション・ニンゲン"
+      ]
+    },
+    {
+      "title": "Hypnotize",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 8.9,
+        "ETR": 9.9
+      }
+    },
+    {
+      "title": "Ashen 6oundary",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.9
+      },
+      "aliases": [
+        "ashen boundary"
+      ]
+    },
+    {
+      "title": "Swan Song",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.5,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Shinchoku Doudesuka?",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 8.8,
+        "ETR": 9.9
+      },
+      "aliases": [
+        "進捗どうですか?"
+      ]
+    },
+    {
+      "title": "Tic! Tac! Toe!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 8.8,
+        "ETR": 9.9
+      }
+    },
+    {
+      "title": "Syriana",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "incomplete the one",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 8.8,
+        "ETR": 9.9
+      }
+    },
+    {
+      "title": "Vainspire",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 8.4,
+        "ETR": 9.9
+      }
+    },
+    {
+      "title": "Paradox Palette",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 8.8,
+        "ETR": 9.9
+      }
+    },
+    {
+      "title": "~_+",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8,
+        "FTR": 9.9
+      },
+      "aliases": [
+        "mask"
+      ]
+    },
+    {
+      "title": "CHAIN2NITE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 8.6,
+        "ETR": 9.9
+      }
+    },
+    {
+      "title": "Spear of Justice",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.6,
+        "ETR": 9.9
+      },
+      "aliases": [
+        "seigi no yari",
+        "正義の槍"
+      ]
+    },
+    {
+      "title": "MIRROR - kamome sano remix",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "flexidefine",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 6,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "Lavie",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 8.8,
+        "ETR": 9.9
+      },
+      "aliases": [
+        "ravi",
+        "ラヴィ"
+      ]
+    },
+    {
+      "title": "Ember",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 5,
+        "PRS": 8.1,
+        "FTR": 9.9
+      }
+    },
+    {
+      "title": "SOUNDWiTCH",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Memory Forest",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Linear Accelerator",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Black Territory",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Corruption",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Heavenly caress",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.8,
+        "BYD": 10.9
+      }
+    },
+    {
+      "title": "Einherjar Joker",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.8,
+        "BYD": 10.9
+      }
+    },
+    {
+      "title": "Lost Desire",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Altale",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 9.8,
+        "BYD": 10
+      }
+    },
+    {
+      "title": "Scarlet Cage",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Got hive of Ra",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Xeraphinite",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Far Away Light",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "THE ULTIMACY",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Mazy Metroplex",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.8,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Ascent",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Haze of Autumn",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "秋の陽炎"
+      ]
+    },
+    {
+      "title": "init()",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Macrocosmic Modulation",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Protoflicker",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "原型滑动",
+        "护船石"
+      ]
+    },
+    {
+      "title": "Defection",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Callima Karma",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Ai Drew",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "FLUFFY FLASH",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "World Fragments III(radio edit)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Genesis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "Genesis (2)"
+      ]
+    },
+    {
+      "title": "Hybris (The one who shattered)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "ヒュブリスの頂に聳えるのは"
+      ]
+    },
+    {
+      "title": "RGB",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Kanjou no Matenrou ～Arr.Demetori",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "kanjou no matenrou",
+        "感情の摩天楼 ～Arr.Demetori"
+      ]
+    },
+    {
+      "title": "To the Furthest Dream",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8.5,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "彼方の夢へと"
+      ]
+    },
+    {
+      "title": "Technicolour",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Nameless Passion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Ouvertüre",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 7.5,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "Ouverture"
+      ]
+    },
+    {
+      "title": "LIVHT MY WΔY",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "light my way"
+      ]
+    },
+    {
+      "title": "MORNINGLOOM",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 8.8,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "Old School Salvage",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "HYPER VISION",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "shrink",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "Waltz for Lorelei",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.8,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "Crimson Quartz",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.8,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "LiftOff",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 8.2,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "Ignition",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "yomibito_shirazu",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 8,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "yomibito shirazu",
+        "ヨミビトシラズ"
+      ]
+    },
+    {
+      "title": "Won't Back Down",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.8
+      }
+    },
+    {
+      "title": "U.A.D",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.7,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "Miles",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.2,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "Scarlet Lunar Empress",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.8
+      },
+      "aliases": [
+        "akatsuki no hime",
+        "朱月ノ姫"
+      ]
+    },
+    {
+      "title": "disintegration",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 8.3,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "taboo tears you up 2017",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 8.4,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "Cosmogyral",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.6,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "Altersist",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.4,
+        "ETR": 9.8
+      }
+    },
+    {
+      "title": "Lethaeus",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "The Message",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Sulfur",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Fallensquare",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "DX Choseinou Full Metal Shojo",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.7
+      },
+      "aliases": [
+        "DX超性能フルメタル少女"
+      ]
+    },
+    {
+      "title": "SUPERNOVA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Dreadnought",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Monochrome Princess",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Filament",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.7
+      },
+      "aliases": [
+        "灯丝",
+        "灯芯"
+      ]
+    },
+    {
+      "title": "BATTLE NO.1",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "BLRINK",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.8,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "amygdata",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Black Lotus",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "BADTEK",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Heart Jackin'",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 5.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Dazzle hop",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Vandalism",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "AlterAle",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "goldenslaughterer",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "nέο κόsmo",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.7
+      },
+      "aliases": [
+        "neo kosmo"
+      ]
+    },
+    {
+      "title": "μ",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.7
+      },
+      "aliases": [
+        "mu"
+      ]
+    },
+    {
+      "title": "Loveless Dress",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Last | Eternity",
+      "game": "arcaea",
+      "tiers": {
+        "BYD": 9.7
+      },
+      "aliases": [
+        "Last | Eternity (2)"
+      ]
+    },
+    {
+      "title": "Let's Rock (Arcaea mix)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Lost in the Abyss",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "SACRIFICE feat. ayame",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "B.B.K.K.B.K.K.",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 9.7
+      },
+      "aliases": [
+        "bbkkbkk"
+      ]
+    },
+    {
+      "title": "Hotarubi no Yuki",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.7
+      },
+      "aliases": [
+        "蛍火の雪"
+      ]
+    },
+    {
+      "title": "Luna Rossa",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Innocence",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 8.5,
+        "ETR": 9.7
+      }
+    },
+    {
+      "title": "IONOSTREAM",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 8.7,
+        "ETR": 9.7
+      }
+    },
+    {
+      "title": "Awaken In Ruins",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Hailstone",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Last Goodbye",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 8.2,
+        "ETR": 9.7
+      },
+      "aliases": [
+        "これでホントにサヨナラ"
+      ]
+    },
+    {
+      "title": "Black Mirror on the Wall",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.6,
+        "ETR": 9.7
+      }
+    },
+    {
+      "title": "τ (tau)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Acheron",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Particle",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 9.5,
+        "ETR": 9.7
+      }
+    },
+    {
+      "title": "The Forgotten Forest Haven",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.7
+      },
+      "aliases": [
+        "shinnoukyoseki",
+        "森奥虚跡"
+      ]
+    },
+    {
+      "title": "+1(UNKNOWN)-NUMBER",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.7
+      },
+      "aliases": [
+        "unknown number"
+      ]
+    },
+    {
+      "title": "Vallista",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7.8,
+        "FTR": 9.7
+      }
+    },
+    {
+      "title": "Quon",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 9.6
+      },
+      "aliases": [
+        "Quon (2)"
+      ]
+    },
+    {
+      "title": "carmine:scythe",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.6
+      }
+    },
+    {
+      "title": "LunarOrbit -believe in the Espebranch road-",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 9.6
+      },
+      "aliases": [
+        "白道、多希望羊と信じありく。"
+      ]
+    },
+    {
+      "title": "Astral tale",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 9.6
+      }
+    },
+    {
+      "title": "Vindication",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 9.6
+      }
+    },
+    {
+      "title": "A Wandering Melody of Love",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 9.6
+      },
+      "aliases": [
+        "迷える音色は恋の唄"
+      ]
+    },
+    {
+      "title": "Avant Raze",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.6
+      }
+    },
+    {
+      "title": "Purple Verse",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.6,
+        "BYD": 10.6
+      }
+    },
+    {
+      "title": "Lazy Addiction",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 9.6
+      }
+    },
+    {
+      "title": "ENERGY SYNERGY MATRIX",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.6,
+        "BYD": 10.3
+      }
+    },
+    {
+      "title": "Last",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9,
+        "BYD": 9.6
+      }
+    },
+    {
+      "title": "Heart",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1,
+        "PRS": 5,
+        "FTR": 9.6
+      },
+      "aliases": [
+        "心"
+      ]
+    },
+    {
+      "title": "Remind the Souls (Short Version)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.6
+      }
+    },
+    {
+      "title": "Stratoliner",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.6
+      }
+    },
+    {
+      "title": "Alone & Lorn",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.6
+      },
+      "aliases": [
+        "アローンアンドローン"
+      ]
+    },
+    {
+      "title": "epitaxy",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.6,
+        "ETR": 9.6
+      }
+    },
+    {
+      "title": "See the Lights!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.6,
+        "ETR": 9.6
+      }
+    },
+    {
+      "title": "Factorder",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 8.6,
+        "ETR": 9.6
+      }
+    },
+    {
+      "title": "DataErr0r",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.5
+      },
+      "aliases": [
+        "dataerror"
+      ]
+    },
+    {
+      "title": "Cybernecia Catharsis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.5,
+        "BYD": 9.8
+      }
+    },
+    {
+      "title": "Illegal Paradise",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 7,
+        "FTR": 9.5
+      },
+      "aliases": [
+        "堕楽の園"
+      ]
+    },
+    {
+      "title": "STAGER (ALL STAGE CLEAR)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "OMAKENO Stroke",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.5,
+        "BYD": 10.3
+      }
+    },
+    {
+      "title": "MAHOROBA",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "ΟΔΥΣΣΕΙΑ",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.5
+      },
+      "aliases": [
+        "odysseia"
+      ]
+    },
+    {
+      "title": "Evening in Scarlet",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.5
+      },
+      "aliases": [
+        "緋纏いの宵"
+      ]
+    },
+    {
+      "title": "NULCTRL",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.5,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "GIMMICK",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "Dynitikós",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.5
+      },
+      "aliases": [
+        "dynitikos",
+        "Dynitikos"
+      ]
+    },
+    {
+      "title": "Transient Space",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 7,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "felys final remix",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "On And On!! feat. Jenga",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "Jingle",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 7.8,
+        "ETR": 9.5
+      }
+    },
+    {
+      "title": "〇、",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 9.5
+      },
+      "aliases": [
+        "ichirin",
+        "、"
+      ]
+    },
+    {
+      "title": "In Vain",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "astral.exe",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "End of The Moonlight",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 5.5,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "SATISFACTION",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 8.5,
+        "ETR": 9.5
+      }
+    },
+    {
+      "title": "Someday",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "Viola Illyria",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "One Step Closer",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.5
+      }
+    },
+    {
+      "title": "Spider Dance",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 7.8,
+        "ETR": 9.5
+      },
+      "aliases": [
+        "supaida dansu",
+        "スパイダーダンス"
+      ]
+    },
+    {
+      "title": "Party Vinyl",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.4,
+        "BYD": 10.3
+      }
+    },
+    {
+      "title": "CROSS†SOUL",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Your voice so... feat. Such",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Impure Bird",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5.5,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "不浄な白い鳥"
+      ]
+    },
+    {
+      "title": "Dreamin' Attraction!!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Red and Blue",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.8,
+        "FTR": 9.4,
+        "BYD": 10.2
+      }
+    },
+    {
+      "title": "Yosakura Fubuki",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "夜桜吹雪"
+      ]
+    },
+    {
+      "title": "Specta",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Be There",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.4,
+        "BYD": 10.5
+      }
+    },
+    {
+      "title": "VECTOЯ",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "vector"
+      ]
+    },
+    {
+      "title": "AI[UE]OON",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Equilibrium",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Teriqma",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.4,
+        "BYD": 9.7
+      }
+    },
+    {
+      "title": "CROSS†OVER",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Lapis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 6,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Crystal Gravity",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "with U",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Let you DIVE! (nitro rmx)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Final Step!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Sakura Fubuki",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "Head BONK ache",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "PICO-Pico-Translation!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 6,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "ピコPico*とらんすれーしょんっ！"
+      ]
+    },
+    {
+      "title": "Redraw the Colorless World",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "無機質世界に彩を"
+      ]
+    },
+    {
+      "title": "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "DRG",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "大热狗",
+        "删游戏"
+      ]
+    },
+    {
+      "title": "Raven's Pride",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "レイヴンズ・プライド"
+      ]
+    },
+    {
+      "title": "FANTA5Y",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "fantasy"
+      ]
+    },
+    {
+      "title": "FURETE-MITAI",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.4,
+        "ETR": 9.4
+      },
+      "aliases": [
+        "furetemitai",
+        "フレテミタイ"
+      ]
+    },
+    {
+      "title": "Death By Glamour",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5,
+        "FTR": 7.8,
+        "ETR": 9.4
+      },
+      "aliases": [
+        "華麗なる死闘"
+      ]
+    },
+    {
+      "title": "I want You",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 5.5,
+        "FTR": 8.3,
+        "ETR": 9.4
+      }
+    },
+    {
+      "title": "mod",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "undefined",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 9.4
+      }
+    },
+    {
+      "title": "OMAJINAI",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 7,
+        "FTR": 9.4
+      },
+      "aliases": [
+        "おまじない"
+      ]
+    },
+    {
+      "title": "GOODTEK (Arcaea Edit)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 9.3,
+        "BYD": 9.8
+      }
+    },
+    {
+      "title": "Oracle",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 5.5,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "Ignotus",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.3,
+        "BYD": 9.9
+      }
+    },
+    {
+      "title": "Auxesia",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "Syro",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "Blaster",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "Feels So Right feat. Renko",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "Glow",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7.5,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "Can I Friend You on Bassbook? Lol",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.3
+      },
+      "aliases": [
+        "ベースラインやってる？ｗ"
+      ]
+    },
+    {
+      "title": "Small Cloud Sugar Candy",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.3,
+        "BYD": 10.3
+      }
+    },
+    {
+      "title": "False Embellishment",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.3,
+        "BYD": 9.9
+      },
+      "aliases": [
+        "狂言綺語"
+      ]
+    },
+    {
+      "title": "Blocked Library",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "Lost Emotion feat. nomico",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "The Formula",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "HELLOHELL",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5,
+        "FTR": 7.5,
+        "ETR": 9.3
+      }
+    },
+    {
+      "title": "Floating World",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.3
+      }
+    },
+    {
+      "title": "Lost Civilization",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.2,
+        "BYD": 9.8
+      }
+    },
+    {
+      "title": "Anökumene",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 9.2,
+        "BYD": 9.9
+      },
+      "aliases": [
+        "anokumene",
+        "Anokumene"
+      ]
+    },
+    {
+      "title": "Strongholds",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5,
+        "FTR": 9.2
+      }
+    },
+    {
+      "title": "Rugie",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.2
+      }
+    },
+    {
+      "title": "Phantasia",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 5.5,
+        "FTR": 9.2
+      }
+    },
+    {
+      "title": "Libertas",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 5.5,
+        "FTR": 9.2,
+        "BYD": 10.5
+      }
+    },
+    {
+      "title": "Alice à la mode",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 9.2
+      },
+      "aliases": [
+        "alice a la mode",
+        "Alice a la mode"
+      ]
+    },
+    {
+      "title": "Dancin' on a Cat's Paw",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.2
+      },
+      "aliases": [
+        "ネコノテ・カリタガール"
+      ]
+    },
+    {
+      "title": "cocoro*cosmetic",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.2
+      }
+    },
+    {
+      "title": "Used to be",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 9.2
+      }
+    },
+    {
+      "title": "Leave All Behind",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5.5,
+        "FTR": 9.2
+      }
+    },
+    {
+      "title": "Sign of \"10.5km\"",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9.2
+      },
+      "aliases": [
+        "yasuhisa watanabe"
+      ]
+    },
+    {
+      "title": "Ladymade Star",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 8.4,
+        "ETR": 9.2
+      }
+    },
+    {
+      "title": "3rd Avenue",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 8.1,
+        "FTR": 9.2
+      }
+    },
+    {
+      "title": "qualia -ideaesthesia-",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 9.1,
+        "BYD": 9.8
+      }
+    },
+    {
+      "title": "Essence of Twilight",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "Iconoclast",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "Journey",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "dropdead",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1.5,
+        "PRS": 9.5,
+        "FTR": 9.1,
+        "BYD": 10.5
+      }
+    },
+    {
+      "title": "Empire of Winter",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "ReviXy",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "La'qryma of the Wasteland",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6.5,
+        "FTR": 9.1,
+        "BYD": 10
+      }
+    },
+    {
+      "title": "Faint Light (Arcaea Edit)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "Alice's Suitcase",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "Life is PIANO",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "Coastal Highway",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "Blue Rose",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 6,
+        "FTR": 9.1
+      }
+    },
+    {
+      "title": "Prayer",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.2,
+        "ETR": 9.1
+      },
+      "aliases": [
+        "pureya",
+        "プレヤ"
+      ]
+    },
+    {
+      "title": "Gimme Caramel Popcorn!",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.1,
+        "ETR": 9.1
+      },
+      "aliases": [
+        "kyarameru poppukon tabetaiyo",
+        "キャラメルポップコーンたべたいよ〜"
+      ]
+    },
+    {
+      "title": "Flyburg and Endroll",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9
+      },
+      "aliases": [
+        "フライブルクとエンドロウル"
+      ]
+    },
+    {
+      "title": "Kanagawa Cyber Culvert",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1,
+        "PRS": 5.5,
+        "FTR": 9,
+        "BYD": 9.8
+      },
+      "aliases": [
+        "神奈川電脳暗渠"
+      ]
+    },
+    {
+      "title": "Jump",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6,
+        "FTR": 9
+      }
+    },
+    {
+      "title": "Turbocharger",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 9
+      }
+    },
+    {
+      "title": "Galactic Love",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 9
+      }
+    },
+    {
+      "title": "Lawless Point",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 9
+      },
+      "aliases": [
+        "無法地点"
+      ]
+    },
+    {
+      "title": "Primeval Texture",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 7.5,
+        "FTR": 9
+      }
+    },
+    {
+      "title": "memoryfactory.lzh",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.9
+      }
+    },
+    {
+      "title": "Flashback",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 8.9
+      }
+    },
+    {
+      "title": "Chronostasis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 7.5,
+        "FTR": 8.9
+      }
+    },
+    {
+      "title": "Evoltex (poppi'n mix)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 7,
+        "FTR": 8.9
+      }
+    },
+    {
+      "title": "Maze No.9",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 3.5,
+        "FTR": 8.9
+      },
+      "aliases": [
+        "九番目の迷路"
+      ]
+    },
+    {
+      "title": "MERLIN",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 5.5,
+        "FTR": 8.9,
+        "BYD": 9.4
+      }
+    },
+    {
+      "title": "Chelsea",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.9
+      }
+    },
+    {
+      "title": "Give Me a Nightmare",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 5.5,
+        "FTR": 8.9
+      }
+    },
+    {
+      "title": "Lights of Muse",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.9
+      }
+    },
+    {
+      "title": "Surrender",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 8.8
+      }
+    },
+    {
+      "title": "next to you",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 7,
+        "FTR": 8.8,
+        "BYD": 9.6
+      }
+    },
+    {
+      "title": "Solitary Dream",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 8.8
+      },
+      "aliases": [
+        "虚空の夢"
+      ]
+    },
+    {
+      "title": "Antithese",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 8.8,
+        "BYD": 9.6
+      }
+    },
+    {
+      "title": "Vivid Theory",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 8.8
+      }
+    },
+    {
+      "title": "Cosmica",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5,
+        "FTR": 8.8
+      }
+    },
+    {
+      "title": "Dialnote",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.8
+      },
+      "aliases": [
+        "だいあるのーと"
+      ]
+    },
+    {
+      "title": "CYCLES",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 8.8
+      }
+    },
+    {
+      "title": "Cosmo Pop Funclub",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.8
+      },
+      "aliases": [
+        "コスモポップファンクラブ"
+      ]
+    },
+    {
+      "title": "Hidden Rainbows of Epicurus",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 7.5,
+        "ETR": 8.8
+      },
+      "aliases": [
+        "エピクロスの虹はもう見えない"
+      ]
+    },
+    {
+      "title": "Saint or Sinner",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.8,
+        "BYD": 10.4
+      }
+    },
+    {
+      "title": "cry of viyella",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 8.7
+      }
+    },
+    {
+      "title": "Call My Name feat. Yukacco",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 8.7
+      }
+    },
+    {
+      "title": "Grimheart",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5,
+        "FTR": 8.7
+      }
+    },
+    {
+      "title": "Senkyou",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 5.5,
+        "FTR": 8.7
+      }
+    },
+    {
+      "title": "Beside You",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.7
+      }
+    },
+    {
+      "title": "Paper Witch",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 8.7
+      }
+    },
+    {
+      "title": "Tsuki ni Murakumo, Hana ni Kaze",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.7
+      },
+      "aliases": [
+        "月に叢雲華に風"
+      ]
+    },
+    {
+      "title": "WAIT FOR DAWN",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 7.8,
+        "FTR": 8.7
+      }
+    },
+    {
+      "title": "Heartache",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1.5,
+        "PRS": 4.5,
+        "FTR": 7.5,
+        "ETR": 8.7
+      },
+      "aliases": [
+        "心の痛み"
+      ]
+    },
+    {
+      "title": "Wake in Hour",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 7.5,
+        "ETR": 8.7
+      },
+      "aliases": [
+        "hajimari no uta",
+        "始マリノ詩"
+      ]
+    },
+    {
+      "title": "Silent Rush",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5,
+        "FTR": 8.6
+      }
+    },
+    {
+      "title": "FREEF4LL",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 7,
+        "FTR": 8.6,
+        "BYD": 9.8
+      },
+      "aliases": [
+        "freefall"
+      ]
+    },
+    {
+      "title": "Gekka (Short Version)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4,
+        "PRS": 6.5,
+        "FTR": 8.6
+      }
+    },
+    {
+      "title": "April showers",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5.5,
+        "FTR": 8.6
+      },
+      "aliases": [
+        "四月の雨"
+      ]
+    },
+    {
+      "title": "enchanted love",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 4.5,
+        "FTR": 8.6
+      }
+    },
+    {
+      "title": "Babaroque",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 8.5
+      }
+    },
+    {
+      "title": "Dandelion",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.5
+      }
+    },
+    {
+      "title": "Harutopia ~Utopia of Spring~",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1,
+        "PRS": 4.5,
+        "FTR": 8.5
+      },
+      "aliases": [
+        "ハルトピア ~Utopia of Spring~"
+      ]
+    },
+    {
+      "title": "Reinvent",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 8.5
+      }
+    },
+    {
+      "title": "DDD",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 8.5
+      },
+      "aliases": [
+        "3d",
+        "三D",
+        "D立方",
+        "单推"
+      ]
+    },
+    {
+      "title": "Altair (feat. *spiLa*)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.5
+      }
+    },
+    {
+      "title": "syūten",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 8.5
+      },
+      "aliases": [
+        "syuten"
+      ]
+    },
+    {
+      "title": "Snow White",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5,
+        "FTR": 8.4,
+        "BYD": 9.7
+      }
+    },
+    {
+      "title": "Lumia",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.4,
+        "BYD": 9.5
+      }
+    },
+    {
+      "title": "REconstruction",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.4
+      }
+    },
+    {
+      "title": "Moonheart",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.4,
+        "BYD": 9.7
+      }
+    },
+    {
+      "title": "Rabbit In The Black Room",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.4
+      }
+    },
+    {
+      "title": "Purgatorium",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.4,
+        "BYD": 9.6
+      }
+    },
+    {
+      "title": "Eccentric Tale",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5.5,
+        "FTR": 8.4,
+        "BYD": 9.9
+      }
+    },
+    {
+      "title": "INTERNET OVERDOSE",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6.5,
+        "FTR": 8.4
+      }
+    },
+    {
+      "title": "Shades of Light in a Transcendent Realm",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.3,
+        "BYD": 9.1
+      }
+    },
+    {
+      "title": "Bookmaker (2D Version)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 6.5,
+        "FTR": 8.3,
+        "BYD": 10
+      }
+    },
+    {
+      "title": "Dot to Dot feat. shully",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.3
+      }
+    },
+    {
+      "title": "Tie me down gently",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 5.5,
+        "FTR": 8.3
+      }
+    },
+    {
+      "title": "Oblivia",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 5,
+        "FTR": 8.3,
+        "BYD": 9.7
+      }
+    },
+    {
+      "title": "Ävril -Flicka i krans-",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 6,
+        "FTR": 8.3
+      },
+      "aliases": [
+        "avril",
+        "Avril -Flicka i krans-"
+      ]
+    },
+    {
+      "title": "san skia",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 8.3
+      }
+    },
+    {
+      "title": "Dematerialized",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1.5,
+        "PRS": 4.5,
+        "FTR": 7.5,
+        "ETR": 8.3
+      }
+    },
+    {
+      "title": "Lucifer",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 5.5,
+        "FTR": 8.2
+      }
+    },
+    {
+      "title": "Genesis",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5.5,
+        "FTR": 8.2
+      },
+      "aliases": [
+        "Genesis (2)"
+      ]
+    },
+    {
+      "title": "One Last Drive",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.2
+      }
+    },
+    {
+      "title": "Hall of Mirrors",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3,
+        "PRS": 5.5,
+        "FTR": 8.2
+      }
+    },
+    {
+      "title": "1F√",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6.5,
+        "FTR": 8.2
+      }
+    },
+    {
+      "title": "blue comet",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 5,
+        "FTR": 8.2
+      }
+    },
+    {
+      "title": "I've heard it said",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 8.1
+      }
+    },
+    {
+      "title": "Hikari",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 6,
+        "FTR": 8.1
+      },
+      "aliases": [
+        "光"
+      ]
+    },
+    {
+      "title": "Diode",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5.5,
+        "FTR": 8.1
+      }
+    },
+    {
+      "title": "Bullet Waiting for Me (James Landino remix)",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 4.5,
+        "FTR": 8.1
+      }
+    },
+    {
+      "title": "Relentless",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 4.5,
+        "PRS": 6.5,
+        "FTR": 8
+      }
+    },
+    {
+      "title": "world.execute(me);",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 5,
+        "FTR": 8
+      }
+    },
+    {
+      "title": "Prism",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 8
+      }
+    },
+    {
+      "title": "Rise",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 4,
+        "FTR": 7.8
+      }
+    },
+    {
+      "title": "Dement ~after legend~",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 7.8,
+        "BYD": 9.9
+      }
+    },
+    {
+      "title": "Infinity Heaven",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1.5,
+        "PRS": 5.5,
+        "FTR": 7.8,
+        "BYD": 9.6
+      },
+      "aliases": [
+        "无限天堂"
+      ]
+    },
+    {
+      "title": "Brand new world",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 4,
+        "FTR": 7.8
+      }
+    },
+    {
+      "title": "Paradise",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1,
+        "PRS": 4,
+        "FTR": 7.8
+      }
+    },
+    {
+      "title": "Clotho and the stargazer",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 7.8,
+        "ETR": 8.8
+      },
+      "aliases": [
+        "クロートーと星の観測者"
+      ]
+    },
+    {
+      "title": "Moonlight of Sand Castle",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1.5,
+        "PRS": 5,
+        "FTR": 7.8
+      }
+    },
+    {
+      "title": "Romance Wars",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1,
+        "PRS": 4,
+        "FTR": 7.8
+      },
+      "aliases": [
+        "vsキミ戦争"
+      ]
+    },
+    {
+      "title": "Dream goes on",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1.5,
+        "PRS": 5,
+        "FTR": 7.8
+      }
+    },
+    {
+      "title": "inkar-usi",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 4,
+        "FTR": 7.8,
+        "BYD": 9.4
+      }
+    },
+    {
+      "title": "Suomi",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2,
+        "PRS": 5,
+        "FTR": 7.8,
+        "ETR": 8.9
+      }
+    },
+    {
+      "title": "First Snow",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 4.5,
+        "FTR": 7.8
+      }
+    },
+    {
+      "title": "Sayonara Hatsukoi",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1.5,
+        "PRS": 4.5,
+        "FTR": 7,
+        "ETR": 8.5
+      }
+    },
+    {
+      "title": "Fairytale",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1,
+        "PRS": 3.5,
+        "FTR": 7,
+        "BYD": 9.5
+      }
+    },
+    {
+      "title": "Vexaria",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 2.5,
+        "PRS": 5,
+        "FTR": 7,
+        "BYD": 9
+      }
+    },
+    {
+      "title": "Blossoms",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 1,
+        "PRS": 4,
+        "FTR": 7
+      }
+    },
+    {
+      "title": "Last | Eternity",
+      "game": "arcaea",
+      "tiers": {
+        "ETR": 9.7
+      },
+      "aliases": [
+        "Last | Eternity (2)"
+      ]
+    },
+    {
+      "title": "Particle Arts",
+      "game": "arcaea",
+      "tiers": {
+        "PST": 3.5,
+        "PRS": 6,
+        "FTR": 8.8
+      },
+      "aliases": [
+        "粒子艺术",
+        "粒子画",
+        "粒画"
+      ]
+    }
+  ]
+}

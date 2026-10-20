@@ -1,0 +1,37 @@
+[
+  {
+    "file": "resources/onnx-models/det_ppocrv4.onnx",
+    "bytes": 4745517,
+    "sha256": "d2a7720d45a54257208b1e13e36a8479894cb74155a5efe29462512d42f49da9"
+  },
+  {
+    "file": "resources/onnx-models/dict_ch.txt",
+    "bytes": 26250,
+    "sha256": "a1c84d9bdb9ab29043c58896224d32941783eb821629618416dcb08f12886492"
+  },
+  {
+    "file": "resources/onnx-models/dict_japan.txt",
+    "bytes": 17332,
+    "sha256": "1dcfcb41eec90576a945b3084f22ade11ced506e24f14879245b071698f308e8"
+  },
+  {
+    "file": "resources/onnx-models/dict_v5.txt",
+    "bytes": 74012,
+    "sha256": "d1979e9f794c464c0d2e0b70a7fe14dd978e9dc644c0e71f14158cdf8342af1b"
+  },
+  {
+    "file": "resources/onnx-models/rec_ch.onnx",
+    "bytes": 10857958,
+    "sha256": "48fc40f24f6d2a207a2b1091d3437eb3cc3eb6b676dc3ef9c37384005483683b"
+  },
+  {
+    "file": "resources/onnx-models/rec_ch_v5.onnx",
+    "bytes": 16631306,
+    "sha256": "5825fc7ebf84ae7a412be049820b4d86d77620f204a041697b0494669b1742c5"
+  },
+  {
+    "file": "resources/onnx-models/rec_japan.onnx",
+    "bytes": 9753335,
+    "sha256": "e1075a67dba758ecfc7ebc78a10ae61c95ac8fb66a9c86fab5541e33f085cb7a"
+  }
+]

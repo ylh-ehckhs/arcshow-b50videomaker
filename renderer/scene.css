@@ -1,0 +1,40 @@
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:transparent}body{font-family:'Microsoft YaHei UI','Microsoft YaHei',sans-serif}#stage{width:1920px;height:1080px;transform-origin:0 0;position:relative;overflow:hidden}.scene{--bg:#1b192b;--ink:#f2eff9;--muted:#b7afc6;--accent:#d1bfe9;--line:#d1bfe936;background:var(--bg);color:var(--ink)}.scene.dawn{--bg:#f0edf5;--ink:#332b42;--muted:#71667f;--accent:#796091;--line:#79609133}.background{position:absolute;inset:0;background:radial-gradient(ellipse at 10% 100%,#70628d30,transparent 65%);overflow:hidden}.backdrop{width:100%;height:100%;object-fit:cover;filter:blur(35px) brightness(.25) saturate(.5);transform:scale(1.15);opacity:.6}.dawn .backdrop{filter:blur(40px) brightness(1.3);opacity:.12}.glass-shape{position:absolute;width:800px;height:1700px;right:-300px;top:-400px;transform:rotate(30deg);border-left:1px solid var(--line);background:#ffffff02}.component{position:absolute;overflow:hidden;overflow-wrap:anywhere;line-height:1.35;z-index:1}.muted{color:var(--muted)}.scene-brand{letter-spacing:1px;color:var(--muted)}.scene-footer{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line);color:var(--muted)}.song-title{white-space:nowrap;line-height:1.2}.track-meta{color:var(--muted);display:flex;align-items:center;gap:20px}.artist{margin-left:12px}.diff{background:#a58ab133;color:#d9c4eb;padding:4px 10px;font-size:.72em;letter-spacing:1px;font-weight:700;border-radius:3px}.diff.BYD{color:#efb5b8;background:#b5434c33}.diff.ETR{color:#dbd1f5;background:#8980be33}.diff.PST{color:#a4e6f1;background:#29768b33}.diff.PRS{color:#bfe9a4;background:#779a3933}.dawn .diff{color:var(--accent);background:var(--line)}.video-frame{z-index:0;overflow:hidden;background:#080f16}.video-frame video{width:100%;height:100%;object-fit:contain;display:block}.video-fallback{position:absolute;inset:0;display:flex;justify-content:center;align-items:center;color:#c5bbd5;background:linear-gradient(145deg,#383349,#19232f);overflow:hidden}.jacket{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}.score-value small,.metric small{display:block;font:16px 'Microsoft YaHei UI';color:var(--muted);margin-bottom:8px}.score-value small span{float:right}.score-value strong,.metric strong{font-size:1em;font-weight:inherit;white-space:nowrap;line-height:1.1}.metric{color:var(--accent)}.judgements{color:var(--muted);border-bottom:1px solid var(--line)}.judgements b{color:var(--ink);margin-left:18px;font-weight:inherit}.judgements>span{margin-left:60px}.comment{line-height:1.65;white-space:pre-wrap;letter-spacing:.3px}.rank-value{color:var(--accent)}.rank-value strong{font-weight:inherit}.rank-value small{font-size:.4em;color:var(--muted)}.overview-player{display:flex;justify-content:space-between;color:var(--muted)}.overview-grid{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:repeat(5,minmax(0,1fr));gap:20px 40px}.overview-card{display:flex;align-items:center;gap:22px;background:#ffffff05;border:1px solid var(--line);padding:16px 22px;min-height:0}.overview-rank{font-size:1.2em;color:var(--accent);min-width:40px}.overview-card>div{flex:1;min-width:0}.overview-card h2{font-size:1em;margin:0 0 10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:500}.overview-card p{font-size:.63em;color:var(--muted);margin:0;white-space:nowrap}.overview-score{margin-left:18px;font-family:Consolas,monospace}.overview-card>strong{font-size:1.25em;color:var(--accent);font-weight:inherit}.layer-background .component{visibility:hidden}.layer-foreground{background:transparent}.layer-foreground .background,.layer-foreground .video-frame{display:none}.editing .component{outline:1px dashed #bf9ce15c;cursor:move;user-select:none}.editing video{pointer-events:none}.editing .component-selected{outline:3px solid #c3a2ef;outline-offset:-2px}.resize-handle{display:none;position:absolute;width:18px;height:18px;right:0;bottom:0;background:#c3a2ef;cursor:nwse-resize}.component-selected .resize-handle{display:block}
+/* User backgrounds remain visible in both themes; masking and blur are explicit controls. */
+.independent-image{pointer-events:none}.editing .independent-image{pointer-events:auto}
+.layout-picture{display:block;width:100%;height:100%;object-fit:var(--image-fit,contain);pointer-events:none;user-select:none;-webkit-user-drag:none}
+.layout-picture-empty{display:flex;width:100%;height:100%;align-items:center;justify-content:center;font-size:24px;color:var(--muted)}
+.backdrop,.dawn .backdrop{filter:blur(var(--background-blur,0px));transform:scale(var(--background-scale,1));opacity:1}
+.background-shade{position:absolute;inset:0;background:rgb(0 0 0 / var(--background-shade,.35))}
+.dawn .background-shade{background:rgb(255 255 255 / var(--background-shade,.35))}
+.grade-value{color:var(--accent);line-height:1.1;white-space:nowrap}
+.overview-page{color:var(--muted)}
+.overview-player{display:block}
+.animation-video{position:absolute;inset:0;background:#000}
+.animation-video video{display:block;width:100%;height:100%;object-fit:contain}
+.layer-foreground .animation-video{display:none}
+.scene-transition{position:absolute;inset:0;background:#000;z-index:10000;opacity:0;pointer-events:none}
+.scene-blur-surface{position:absolute;left:0;top:0;width:1920px;height:1080px;transform-origin:0 0;z-index:1;pointer-events:none;will-change:backdrop-filter}
+/* Readability plates are a separate layer below every text component. */
+.component{z-index:2}.video-frame{z-index:0}.component.independent-backdrop{z-index:1}
+.readable-text{color:#f7f5fc;text-shadow:0 1px 3px #0008}
+.readable-text.metric,.readable-text.grade-value,.readable-text.rank-value{color:color-mix(in srgb,var(--accent) 35%,#fff)}
+.readable-text small,.readable-text.overview-page,.readable-text.judgements,.readable-text .overview-card p{color:#ddd7e6}
+.readable-text.judgements b{color:#f7f5fc}.readable-text .overview-card{background:#ffffff05;border-color:#ffffff26}
+.readable-text .overview-rank,.readable-text .overview-card>strong{color:color-mix(in srgb,var(--accent) 35%,#fff)}
+/* A per-song color also reaches labels and values with their own theme rules. */
+.scene .component.local-text-color,.scene .component.local-text-color :where(small,strong,b:not(.diff),span:not(.diff),p,h2){color:var(--component-text-color)}
+/* Difficulty is independent of dawn/dusk; theme matching remains selectable. */
+.track-meta .diff{font-weight:inherit}
+.scene .difficulty-difficulty .diff{color:#f7eaff;background:#5b286e}
+.scene .difficulty-difficulty .diff.PST{color:#e9faff;background:#147da5}
+.scene .difficulty-difficulty .diff.PRS{color:#f1ffdf;background:#4c7327}
+.scene .difficulty-difficulty .diff.FTR{color:#f7eaff;background:#5b286e}
+.scene .difficulty-difficulty .diff.BYD{color:#fff0f3;background:#aa1536}
+.scene .difficulty-difficulty .diff.ETR{color:#261636;background:#ac93cc}
+.scene .difficulty-difficulty .diff.INS{color:#eef2ff;background:#152a78}
+.scene .difficulty-theme .diff{color:var(--accent);background:var(--line)}
+.scene .readable-text.difficulty-theme .diff{color:color-mix(in srgb,var(--accent) 35%,#fff);background:#ffffff20}
+
+/* Local artwork fixes emoji appearance across Windows and movie export. */
+.comment img.comment-emoji{display:inline-block;width:1em;height:1em;vertical-align:-.15em;object-fit:contain;margin:0;padding:0;border:0;letter-spacing:0;user-select:none}
+.comment .comment-emoji-fallback{font-family:"Segoe UI Emoji","Apple Color Emoji","Noto Color Emoji",sans-serif;font-weight:400;font-style:normal;text-shadow:none;font-variant-emoji:emoji;letter-spacing:0}

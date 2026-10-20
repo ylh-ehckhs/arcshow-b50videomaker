@@ -1,0 +1,108 @@
+﻿segment,type,clipId,title,movieStart,movieEnd,duration,sourceFile,sourceStart,sourceEnd
+1,animation,animation:unlock-01,testify 解锁动画,0,22.5,22.5,assets/unlocks/unlock-01.mp4,0,22.5
+2,song,song:chart-50,Testify FTR,22.5,52,29.5,assets/gameplay/Testify_FTR.mp4,93,122.5
+3,song,song:chart-45,Testify BYD,52,82.7,30.7,assets/gameplay/Testify_BYD.mp4,122.097,152.797
+4,gap,gap:song:chart-49,静音黑场,82.7,83.7,1,,,
+5,song,song:chart-49,99 Glooms FTR,83.7,104.166667,20.466667,assets/gameplay/99-Glooms_FTR.mp4,32.75,53.216667
+6,gap,gap:song:chart-48,静音黑场,104.166667,105.166667,1,,,
+7,song,song:chart-48,Undying Macula FTR,105.166667,126.666667,21.5,assets/gameplay/Undying-Macula_FTR.mp4,69.383333,90.883333
+8,gap,gap:song:chart-47,静音黑场,126.666667,127.666667,1,,,
+9,song,song:chart-47,Override ETR,127.666667,156.066667,28.4,assets/gameplay/Override_ETR.mp4,48.4,76.8
+10,gap,gap:song:chart-28,静音黑场,156.066667,157.066667,1,,,
+11,song,song:chart-28,Singularity FTR,157.066667,179.066667,22,assets/gameplay/Singularity_FTR.mp4,73,95
+12,song,song:chart-46,Singularity VVVIP BYD,179.066667,200.866667,21.8,assets/gameplay/Singularity-VVVIP_BYD.mp4,83,104.8
+13,gap,gap:song:chart-44,静音黑场,200.866667,201.866667,1,,,
+14,song,song:chart-44,IMPACT BYD,201.866667,220.716667,18.85,assets/gameplay/IMPACT_BYD.mp4,87.083333,105.933333
+15,gap,gap:song:chart-43,静音黑场,220.716667,221.716667,1,,,
+16,song,song:chart-43,World Ender BYD,221.716667,242.066667,20.35,assets/gameplay/World-Ender_BYD.mp4,82.75,103.1
+17,gap,gap:song:chart-42,静音黑场,242.066667,243.066667,1,,,
+18,song,song:chart-42,Aether Crest: Astral FTR,243.066667,264.55,21.483333,assets/gameplay/Aether-Crest-Astral_FTR.mp4,33.616667,55.1
+19,gap,gap:song:chart-41,静音黑场,264.55,265.55,1,,,
+20,song,song:chart-41,Extradimensional Cosmic Phenomenon FTR,265.55,289.916667,24.366667,assets/gameplay/Extradimensional-Cosmic-Phenomenon_FTR.mp4,87.716667,112.083333
+21,gap,gap:animation:unlock-02,静音黑场,289.916667,290.916667,1,,,
+22,animation,animation:unlock-02,Xterfusion 解锁动画,290.916667,325.716667,34.8,assets/unlocks/unlock-02.mp4,0.2,35
+23,song,song:chart-40,Xterfusion ETR,325.716667,342.516667,16.8,assets/gameplay/Xterfusion_ETR.mp4,115.9,132.7
+24,gap,gap:song:chart-39,静音黑场,342.516667,343.516667,1,,,
+25,song,song:chart-39,Ether Strike FTR,343.516667,362.05,18.533333,assets/gameplay/Ether-Strike_FTR.mp4,49.8,68.333333
+26,gap,gap:song:chart-37,静音黑场,362.05,363.05,1,,,
+27,song,song:chart-37,Ego Eimi FTR,363.05,384.633333,21.583333,assets/gameplay/Ego-Eimi_FTR.mp4,128.183333,149.766667
+28,gap,gap:song:chart-36,静音黑场,384.633333,385.633333,1,,,
+29,song,song:chart-36,corps-sans-organes FTR,385.633333,404,18.366667,assets/gameplay/corps-sans-organes_FTR.mp4,32.333333,50.7
+30,gap,gap:song:chart-35,静音黑场,404,405,1,,,
+31,song,song:chart-35,Rays of Remnant BYD,405,426.566667,21.566667,assets/gameplay/Rays-of-Remnant_BYD.mp4,37,58.566667
+32,gap,gap:animation:unlock-03,静音黑场,426.566667,427.566667,1,,,
+33,animation,animation:unlock-03,lament rain 解锁动画,427.566667,436.366667,8.8,assets/unlocks/unlock-03.mp4,0,8.8
+34,song,song:chart-34,Lament Rain FTR,436.366667,461.166667,24.8,assets/gameplay/Lament-Rain_FTR.mp4,145.7,170.5
+35,gap,gap:song:chart-33,静音黑场,461.166667,462.166667,1,,,
+36,song,song:chart-33,GLORY：ROAD FTR,462.166667,485.15,22.983333,assets/gameplay/GLORY-ROAD_FTR.mp4,56.55,79.533333
+37,gap,gap:song:chart-32,静音黑场,485.15,486.15,1,,,
+38,song,song:chart-32,PRIMITIVE LIGHTS FTR,486.15,507.15,21,assets/gameplay/PRIMITIVE-LIGHTS_FTR.mp4,137,158
+39,gap,gap:song:chart-31,静音黑场,507.15,508.15,1,,,
+40,song,song:chart-31,Climax FTR,508.15,528.7,20.55,assets/gameplay/Climax_FTR.mp4,42.566667,63.116667
+41,gap,gap:song:chart-30,静音黑场,528.7,529.7,1,,,
+42,song,song:chart-30,LAMIA FTR,529.7,549.2,19.5,assets/gameplay/LAMIA_FTR.mp4,117.666667,137.166667
+43,gap,gap:song:chart-29,静音黑场,549.2,550.2,1,,,
+44,song,song:chart-29,Don't Fight The Music ETR,550.2,569.716667,19.516667,assets/gameplay/Don-t-Fight-The-Music_ETR.mp4,128.55,148.066667
+45,gap,gap:song:chart-27,静音黑场,569.716667,570.716667,1,,,
+46,song,song:chart-27,ouroboros -twin stroke of the end- FTR,570.716667,591.216667,20.5,assets/gameplay/ouroboros-twin-stroke-of-the-end_FTR.mp4,57.25,77.75
+47,gap,gap:song:chart-26,静音黑场,591.216667,592.216667,1,,,
+48,song,song:chart-26,Garakuta Doll Play FTR,592.216667,611.416667,19.2,assets/gameplay/Garakuta-Doll-Play_FTR.mp4,31.533333,50.733333
+49,gap,gap:song:chart-25,静音黑场,611.416667,612.416667,1,,,
+50,song,song:chart-25,Cyaegha FTR,612.416667,631.5,19.083333,assets/gameplay/Cyaegha_FTR.mp4,75.05,94.133333
+51,gap,gap:song:chart-24,静音黑场,631.5,632.5,1,,,
+52,song,song:chart-24,Lilly ETR,632.5,653.2,20.7,assets/gameplay/Lilly_ETR.mp4,101.55,122.25
+53,gap,gap:song:chart-23,静音黑场,653.2,654.2,1,,,
+54,song,song:chart-23,Libertas BYD,654.2,678.4,24.2,assets/gameplay/Libertas_BYD.mp4,78.3,102.5
+55,gap,gap:song:chart-22,静音黑场,678.4,679.4,1,,,
+56,song,song:chart-22,Viyella's Tears FTR,679.4,701.866667,22.466667,assets/gameplay/Viyella-s-Tears_FTR.mp4,84.983333,107.45
+57,gap,gap:song:chart-21,静音黑场,701.866667,702.866667,1,,,
+58,song,song:chart-21,KYOREN ROMANCE FTR,702.866667,722.266667,19.4,assets/gameplay/KYOREN-ROMANCE_FTR.mp4,112.216667,131.616667
+59,gap,gap:song:chart-20,静音黑场,722.266667,723.266667,1,,,
+60,song,song:chart-20,GENOCIDER FTR,723.266667,746.033333,22.766667,assets/gameplay/GENOCIDER_FTR.mp4,72.433333,95.2
+61,gap,gap:song:chart-19,静音黑场,746.033333,747.033333,1,,,
+62,song,song:chart-19,Dantalion FTR,747.033333,767.633333,20.6,assets/gameplay/Dantalion_FTR.mp4,98.15,118.75
+63,gap,gap:song:chart-18,静音黑场,767.633333,768.633333,1,,,
+64,song,song:chart-18,Wish Upon a Snow FTR,768.633333,788.583333,19.95,assets/gameplay/Wish-Upon-a-Snow_FTR.mp4,107.083333,127.033333
+65,gap,gap:song:chart-17,静音黑场,788.583333,789.583333,1,,,
+66,song,song:chart-17,Last Celebration FTR,789.583333,807.866667,18.283333,assets/gameplay/Last-Celebration_FTR.mp4,75.25,93.533333
+67,gap,gap:song:chart-16,静音黑场,807.866667,808.866667,1,,,
+68,song,song:chart-16,Placebo♥Battler FTR,808.866667,826.333333,17.466667,assets/gameplay/Placebo-Battler_FTR.mp4,75.325,92.791667
+69,gap,gap:song:chart-15,静音黑场,826.333333,827.333333,1,,,
+70,song,song:chart-15,ALTER EGO FTR,827.333333,849.5,22.166667,assets/gameplay/ALTER-EGO_FTR.mp4,65.633333,87.8
+71,gap,gap:song:chart-14,静音黑场,849.5,850.5,1,,,
+72,song,song:chart-14,Judgement FTR,850.5,869.8,19.3,assets/gameplay/Judgement_FTR.mp4,91.983333,111.283333
+73,gap,gap:song:chart-13,静音黑场,869.8,870.8,1,,,
+74,song,song:chart-13,Halcyon FTR,870.8,889.966667,19.166667,assets/gameplay/Halcyon_FTR.mp4,96.733333,115.9
+75,gap,gap:song:chart-12,静音黑场,889.966667,890.966667,1,,,
+76,song,song:chart-12,γuarδina FTR,890.966667,910.016667,19.05,assets/gameplay/uar-ina_FTR.mp4,58.233333,77.283333
+77,gap,gap:song:chart-11,静音黑场,910.016667,911.016667,1,,,
+78,song,song:chart-11,Axium Crisis FTR,911.016667,933.883333,22.866667,assets/gameplay/Axium-Crisis_FTR.mp4,70.466667,93.333333
+79,gap,gap:song:chart-10,静音黑场,933.883333,934.883333,1,,,
+80,song,song:chart-10,Vicious [ANTi] Heroism BYD,934.883333,966.683333,31.8,assets/gameplay/Vicious-ANTi-Heroism_BYD.mp4,112,143.8
+81,gap,gap:song:chart-09,静音黑场,966.683333,967.683333,1,,,
+82,song,song:chart-09,To the Milky Way FTR,967.683333,992.166667,24.483333,assets/gameplay/To-the-Milky-Way_FTR.mp4,73.85,98.333333
+83,gap,gap:animation:unlock-04,静音黑场,992.166667,993.166667,1,,,
+84,animation,animation:unlock-04,arcana eden 解锁动画,993.166667,1023.466667,30.3,assets/unlocks/unlock-04.mp4,0,30.3
+85,song,song:chart-38,Arcana Eden FTR,1023.466667,1080.066667,56.6,assets/gameplay/Arcana-Eden_FTR.mp4,51,107.6
+86,song,song:chart-08,Arcana Eden BYD,1080.066667,1137.133333,57.066667,assets/gameplay/Arcana-Eden_BYD.mp4,107,164.066667
+87,gap,gap:song:chart-07,静音黑场,1137.133333,1138.133333,1,,,
+88,song,song:chart-07,AttraqtiA FTR,1138.133333,1157.45,19.316667,assets/gameplay/AttraqtiA_FTR.mp4,51.25,70.566667
+89,gap,gap:song:chart-06,静音黑场,1157.45,1158.45,1,,,
+90,song,song:chart-06,REKKA RESONANCE FTR,1158.45,1178.45,20,assets/gameplay/REKKA-RESONANCE_FTR.mp4,71.5,91.5
+91,gap,gap:song:chart-05,静音黑场,1178.45,1179.45,1,,,
+92,song,song:chart-05,Overwhelm FTR,1179.45,1198.866667,19.416667,assets/gameplay/Overwhelm_FTR.mp4,57.05,76.466667
+93,gap,gap:animation:unlock-05,静音黑场,1198.866667,1199.866667,1,,,
+94,animation,animation:unlock-05,Stasis 解锁动画,1199.866667,1224.516667,24.65,assets/unlocks/unlock-05.mp4,0,24.65
+95,song,song:chart-04,Stasis FTR,1224.516667,1267.266667,42.75,assets/gameplay/Stasis_FTR.mp4,49,91.75
+96,gap,gap:song:chart-03,静音黑场,1267.266667,1268.266667,1,,,
+97,song,song:chart-03,Ringed Genesis FTR,1268.266667,1295.066667,26.8,assets/gameplay/Ringed-Genesis_FTR.mp4,92,118.8
+98,gap,gap:song:chart-02,静音黑场,1295.066667,1296.066667,1,,,
+99,song,song:chart-02,MVURBD FTR,1296.066667,1317.833333,21.766667,assets/gameplay/MVURBD_FTR.mp4,97.733333,119.5
+100,gap,gap:animation:unlock-06,静音黑场,1317.833333,1318.833333,1,,,
+101,animation,animation:unlock-06,invert world解锁动画示例 解锁动画,1318.833333,1336.583333,17.75,assets/unlocks/unlock-06.mp4,0.25,18
+102,song,song:chart-01,Inverted World ETR,1336.583333,1413.866667,77.283333,assets/gameplay/Inverted-World_ETR.mp4,40.26,117.543333
+103,overview,overview:1,总览第 1 页,1413.866667,1417.866667,4,,,
+104,overview,overview:2,总览第 2 页,1417.866667,1421.866667,4,,,
+105,overview,overview:3,总览第 3 页,1421.866667,1425.866667,4,,,
+106,overview,overview:4,总览第 4 页,1425.866667,1429.866667,4,,,
+107,overview,overview:5,总览第 5 页,1429.866667,1433.866667,4,,,

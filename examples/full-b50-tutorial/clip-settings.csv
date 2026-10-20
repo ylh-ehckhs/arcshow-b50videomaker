@@ -1,0 +1,57 @@
+﻿order,type,title,bestRank,videoStart,videoEnd,displayDuration,audioMode,transitionMode,audioFadeEachSide,background
+1,animation,testify 解锁动画,,0,22.5,22.5,own,inherit,0.7,
+2,song,Testify FTR,50,93,122.5,29.5,auto,cut,0,assets/backgrounds/background-07.jpg
+3,song,Testify BYD,45,122.097,152.799,30.702,auto,cut,0,assets/backgrounds/background-07.jpg
+4,song,99 Glooms FTR,49,32.75,53.216667,20.466667,auto,inherit,0.7,
+5,song,Undying Macula FTR,48,69.383333,90.883333,21.5,auto,inherit,0.7,
+6,song,Override ETR,47,48.4,76.8,28.4,auto,inherit,0.7,
+7,song,Singularity FTR,28,73,95,22,video,inherit,0.7,assets/backgrounds/background-04.jpg
+8,song,Singularity VVVIP BYD,46,83,104.799,21.799,auto,cut,0,assets/backgrounds/background-04.jpg
+9,song,IMPACT BYD,44,87.083333,105.933333,18.85,auto,inherit,0.7,
+10,song,World Ender BYD,43,82.75,103.1,20.35,auto,inherit,0.7,
+11,song,Aether Crest: Astral FTR,42,33.616667,55.1,21.483333,auto,inherit,0.7,
+12,song,Extradimensional Cosmic Phenomenon FTR,41,87.716667,112.083333,24.366667,auto,inherit,0.7,
+13,animation,Xterfusion 解锁动画,,0.2,35,34.8,own,inherit,0.7,
+14,song,Xterfusion ETR,40,115.9,132.7,16.8,video,cut,0,assets/backgrounds/background-06.jpg
+15,song,Ether Strike FTR,39,49.8,68.333333,18.533333,auto,inherit,0.7,
+16,song,Ego Eimi FTR,37,128.183333,149.766667,21.583333,auto,inherit,0.7,
+17,song,corps-sans-organes FTR,36,32.333333,50.7,18.366667,auto,inherit,0.7,
+18,song,Rays of Remnant BYD,35,37,58.566667,21.566667,auto,inherit,0.7,
+19,animation,lament rain 解锁动画,,0,8.8,8.8,own,inherit,0.7,
+20,song,Lament Rain FTR,34,145.7,170.5,24.8,video,cut,0,assets/backgrounds/background-05.jpg
+21,song,GLORY：ROAD FTR,33,56.55,79.533333,22.983333,auto,inherit,0.7,
+22,song,PRIMITIVE LIGHTS FTR,32,137,158,21,auto,inherit,0.7,
+23,song,Climax FTR,31,42.566667,63.116667,20.55,auto,inherit,0.7,
+24,song,LAMIA FTR,30,117.666667,137.166667,19.5,auto,inherit,0.7,
+25,song,Don't Fight The Music ETR,29,128.55,148.066667,19.516667,auto,inherit,0.7,
+26,song,ouroboros -twin stroke of the end- FTR,27,57.25,77.75,20.5,auto,inherit,0.7,
+27,song,Garakuta Doll Play FTR,26,31.533333,50.733333,19.2,auto,inherit,0.7,
+28,song,Cyaegha FTR,25,75.05,94.133333,19.083333,auto,inherit,0.7,
+29,song,Lilly ETR,24,101.55,122.25,20.7,auto,inherit,0.7,
+30,song,Libertas BYD,23,78.3,102.5,24.2,auto,inherit,0.7,assets/backgrounds/background-04.jpg
+31,song,Viyella's Tears FTR,22,84.983333,107.45,22.466667,auto,inherit,0.7,
+32,song,KYOREN ROMANCE FTR,21,112.216667,131.616667,19.4,auto,inherit,0.7,
+33,song,GENOCIDER FTR,20,72.433333,95.2,22.766667,auto,inherit,0.7,
+34,song,Dantalion FTR,19,98.15,118.75,20.6,auto,inherit,0.7,
+35,song,Wish Upon a Snow FTR,18,107.083333,127.033333,19.95,auto,inherit,0.7,
+36,song,Last Celebration FTR,17,75.25,93.533333,18.283333,auto,inherit,0.7,
+37,song,Placebo♥Battler FTR,16,75.325,92.799,17.474,auto,inherit,0.7,
+38,song,ALTER EGO FTR,15,65.633333,87.799,22.165667,auto,inherit,0.7,
+39,song,Judgement FTR,14,91.983333,111.283333,19.3,auto,inherit,0.7,
+40,song,Halcyon FTR,13,96.733333,115.9,19.166667,auto,inherit,0.7,
+41,song,γuarδina FTR,12,58.233333,77.283333,19.05,auto,inherit,0.7,
+42,song,Axium Crisis FTR,11,70.466667,93.333333,22.866667,auto,inherit,0.7,
+43,song,Vicious [ANTi] Heroism BYD,10,112,143.799,31.799,auto,inherit,0.7,assets/backgrounds/background-03.jpg
+44,song,To the Milky Way FTR,9,73.85,98.325,24.475,auto,inherit,0.7,
+45,animation,arcana eden 解锁动画,,0,30.3,30.3,own,inherit,0.7,
+46,song,Arcana Eden FTR,38,51,107.6,56.6,video,cut,0,assets/backgrounds/background-02.jpg
+47,song,Arcana Eden BYD,8,107,164.063,57.063,video,cut,0,assets/backgrounds/background-02.jpg
+48,song,AttraqtiA FTR,7,51.25,70.566667,19.316667,auto,inherit,0.7,
+49,song,REKKA RESONANCE FTR,6,71.5,91.5,20,auto,inherit,0.7,
+50,song,Overwhelm FTR,5,57.05,76.466667,19.416667,auto,inherit,0.7,
+51,animation,Stasis 解锁动画,,0,24.65,24.65,own,inherit,0.7,
+52,song,Stasis FTR,4,49,91.75,42.75,video,cut,0,
+53,song,Ringed Genesis FTR,3,92,118.799,26.799,auto,inherit,0.7,
+54,song,MVURBD FTR,2,97.733333,119.5,21.766667,auto,inherit,0.7,
+55,animation,invert world解锁动画示例 解锁动画,,0.25,18,17.75,own,inherit,0.7,
+56,song,Inverted World ETR,1,40.26,117.55,77.29,video,cut,0,assets/backgrounds/background-01.jpg

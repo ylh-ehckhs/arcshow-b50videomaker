@@ -1,0 +1,137 @@
+/* Desktop controls use readable type independently of the 1920×1080 video scene. */
+:root { --ui-scale: 1; --muted: #586c5d; }
+body { font-size: 16px; line-height: 1.5; zoom: var(--ui-scale); container: app-shell / inline-size; }
+#app { height: calc(100dvh / var(--ui-scale)); }
+main { min-height: 0; container: workspace / inline-size; }
+.sidebar { width: 244px; min-width: 244px; padding: 28px 20px 24px; overflow: auto; }
+.brand { font-size: 21px; }
+.brand small, .side-label, .kicker, .side-bottom small { font-size: 12px; color: #637b62; }
+.nav { font-size: 16px; min-height: 52px; padding: 13px 12px; color: #4e6855; }
+.nav > small { font-size: 12px; color: #6a7f65; }
+.side-project strong { font-size: 16px; overflow-wrap: anywhere; }
+.side-project p, .side-bottom { font-size: 14px; color: #5f7656; }
+.topbar { height: auto; min-height: 80px; padding: 12px 24px; flex-wrap: wrap; gap: 10px; }
+.breadcrumb { font-size: 14px; color: #5c715a; max-width: 100%; }
+.demo-badge { font-size: 12px; }
+.top-actions { gap: 8px; flex-wrap: wrap; }
+.top-actions > span { font-size: 13px; color: #677a60; }
+.btn { font-size: 15px; min-height: 42px; padding: 10px 14px; }
+.zoom-control { display: flex; align-items: center; gap: 2px; border: 1px solid #c7d5c1; border-radius: 6px; padding: 2px; }
+.zoom-control > span { font-size: 13px; padding: 0 7px; color: #526b4c; }
+.zoom-control .btn { min-height: 34px; padding: 6px 8px; }
+#ui-zoom-label { min-width: 60px; font-variant-numeric: tabular-nums; }
+.workspace { padding: 26px 24px 36px; }
+.page-title .kicker { font-size: 12px; color: #607958; }
+.page-title h1 { font-size: 30px; }
+.page-title p { font-size: 15px; color: #5e7255; }
+.hero-actions { flex-wrap: wrap; }
+.stats > div { padding: 18px; }
+.stats span, .stats small { font-size: 13px; color: #607654; }
+.stats strong { font-size: 32px; }
+.editor-grid { grid-template-columns: minmax(0, 1fr) 350px; }
+.panel-top { height: auto; min-height: 60px; flex-wrap: wrap; padding: 10px 14px; }
+.segmented button { font-size: 14px; min-height: 36px; padding: 8px 10px; color: #61794f; }
+.preview-res { font-size: 12px; color: #607357; }
+.preview-label { font-size: 12px; }
+.player-controls { flex-wrap: wrap; padding: 12px 14px; }
+.btn.play, .player-controls .btn.quiet { font-size: 14px; min-height: 38px; }
+.player-controls > span { font-size: 13px; color: #5d7253; }
+.timeline-chip { min-width: 112px; max-width: 145px; padding: 10px; }
+.timeline-chip > span, .timeline-chip strong { font-size: 13px; }
+.timeline-chip small { font-size: 12px; color: #657954; }
+.inspector-head > span, .inspector-head b { font-size: 13px; color: #59794b; }
+.field > span, .calculated > span { font-size: 14px; color: #5b714e; }
+.field > span small { font-size: 12px; color: #697b5a; }
+.field input, .field select, .field textarea { font-size: 16px; min-height: 44px; padding: 10px 12px; color: #30482d; }
+.field textarea { font-size: 16px; }
+.calculated strong { font-size: 25px; }
+.advanced, .source-preview, .validation, .help, .checkbox { font-size: 14px; color: #5d7550; }
+.checkbox input { width: 18px; height: 18px; }
+.source-preview pre { font-size: 13px; }
+.inspector-bottom { gap: 8px; flex-wrap: wrap; }
+.inspector-bottom .btn { font-size: 14px; }
+.table-toolbar { flex-wrap: wrap; gap: 12px; }
+.table-toolbar h2 { font-size: 18px; }
+.table-toolbar h2 > span, .table-toolbar p { font-size: 13px; color: #637d52; }
+.table-tools { flex-wrap: wrap; }
+.table-tools input, .table-tools select { font-size: 15px; padding: 10px 12px; color: #4d693e; }
+table { font-size: 16px; }
+th { font-size: 13px; color: #627c50; }
+th, td { padding: 14px 16px; }
+.table-title { font-size: 16px; max-width: 310px; }
+.table-sub, .table-grade, .table-rating small { font-size: 12px; color: #637850; }
+.diff { font-size: 12px; }
+.mono { font-size: 17px; }
+.rank { font-size: 22px; }
+.status { font-size: 13px; padding: 6px 9px; }
+.empty-inline, .empty-inspector p { font-size: 14px; color: #667d54; }
+.empty-inspector h3 { font-size: 17px; }
+.library-note strong { font-size: 16px; }
+.library-note p, .media-card-title > span:not(.rank) { font-size: 14px; color: #627852; }
+.media-card-title { flex-wrap: wrap; }
+.media-card-title h2 { font-size: 20px; min-width: 200px; }
+.file-row > span, .setting-file > span { font-size: 14px; color: #59784a; }
+.file-path, .setting-file .btn { font-size: 15px; min-height: 44px; color: #5c794d; }
+.timing-fields { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.timing-fields > p { grid-column: 1 / -1; font-size: 14px; color: #657c52; }
+.settings-grid { grid-template-columns: repeat(auto-fit, minmax(min(100%, 310px), 1fr)); gap: 20px; }
+.settings-grid .settings-card:last-child { grid-column: auto; }
+.card-number { font-size: 14px; }
+.card-number span { font-size: 17px; }
+.theme-card strong { font-size: 16px; }
+.theme-card small { font-size: 13px; color: #60764f; }
+.export-grid { grid-template-columns: minmax(280px, 360px) minmax(0, 1fr); gap: 20px; }
+.export-cover > span { font-size: 13px; }
+.export-cover > p { font-size: 16px; }
+.export-summary-stats span, .job-card > small { font-size: 14px; color: #627b51; }
+.job-card h3 { font-size: 18px; }
+.job-card p { font-size: 15px; color: #627b51; }
+.preflight { font-size: 15px; color: #5b744b; }
+.preflight p { font-size: 14px; color: #627b51; }
+.success-card h3 { font-size: 18px; }
+.success-card p { font-size: 15px; }
+.success-card small { font-size: 14px; color: #627b51; }
+.empty-card { font-size: 16px; color: #637d51; }
+.modal-backdrop { width: calc(100vw / var(--ui-scale)); height: calc(100dvh / var(--ui-scale)); padding: 16px; }
+.modal { max-width: 100%; max-height: calc(100dvh / var(--ui-scale) - 32px); }
+.review-modal, .ocr-config-modal { display: flex; flex-direction: column; overflow: hidden; }
+.review-modal { width: 1120px; }
+.ocr-config-modal { width: 1000px; }
+.modal-head, .modal-footer { padding: 18px 24px; flex-shrink: 0; }
+.modal-head { gap: 16px; }
+.modal-head h2 { font-size: 26px; }
+.modal-head p, .modal-footer > span { font-size: 14px; color: #60794f; overflow-wrap: anywhere; }
+.review-content, .ocr-config-body { min-height: 0; overflow: auto; padding: 20px 24px; gap: 24px; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+.review-original-label, .review-original details, .review-original pre { font-size: 14px; color: #607b4e; }
+.review-card-picker { grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); }
+.review-card-picker button { font-size: 14px; min-height: 40px; }
+.modal-footer { flex-wrap: wrap; }
+.modal-footer .btn { font-size: 15px; }
+.progress-modal { padding: 30px; overflow: auto; }
+.progress-modal p, .progress-modal #ocr-progress-text { font-size: 16px; color: #5f7e4b; }
+#toast { font-size: 16px; max-width: 90%; bottom: 20px; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+@container workspace (max-width: 1000px) {
+  .editor-grid { grid-template-columns: minmax(0, 1fr); }
+  .inspector { width: 100%; }
+  .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .stats > div { border-bottom: 1px solid var(--line); }
+  .media-fields { grid-template-columns: minmax(0, 1fr); }
+  .export-grid { grid-template-columns: minmax(0, 1fr); }
+}
+@container app-shell (max-width: 1000px) {
+  #app { flex-direction: column; }
+  .sidebar { width: 100%; min-width: 0; flex-shrink: 0; padding: 10px 16px; border-right: 0; border-bottom: 1px solid var(--line); }
+  .sidebar nav { flex-direction: row; flex-wrap: wrap; gap: 4px; }
+  .sidebar .brand, .side-label, .side-project, .side-bottom { display: none; }
+  .nav { flex: 1; justify-content: center; padding: 10px 8px; }
+  .nav > small { display: none; }
+  .topbar { padding: 10px 16px; }
+  .top-actions > span { display: none; }
+  .workspace { padding: 20px 16px 30px; }
+}
+@container app-shell (max-width: 850px) {
+  .review-content, .ocr-config-body { grid-template-columns: minmax(0, 1fr); }
+  .modal-footer > span { flex-basis: 100%; }
+  .timing-fields { grid-template-columns: minmax(0, 1fr); }
+}

@@ -1,0 +1,582 @@
+[
+  {
+    "file": "assets/gameplay/Inverted-World_ETR.mp4",
+    "kind": "gameplay",
+    "description": "Inverted World ETR",
+    "minimumDuration": 137.543333,
+    "usedBy": [
+      "Inverted World ETR"
+    ]
+  },
+  {
+    "file": "assets/backgrounds/background-01.jpg",
+    "kind": "backgrounds",
+    "description": "Inverted World ETR 本曲背景",
+    "minimumDuration": 0,
+    "usedBy": [
+      "Inverted World ETR 本曲背景"
+    ]
+  },
+  {
+    "file": "assets/gameplay/MVURBD_FTR.mp4",
+    "kind": "gameplay",
+    "description": "MVURBD FTR",
+    "minimumDuration": 119.5,
+    "usedBy": [
+      "MVURBD FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Ringed-Genesis_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Ringed Genesis FTR",
+    "minimumDuration": 118.8,
+    "usedBy": [
+      "Ringed Genesis FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Stasis_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Stasis FTR",
+    "minimumDuration": 91.75,
+    "usedBy": [
+      "Stasis FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Overwhelm_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Overwhelm FTR",
+    "minimumDuration": 76.466667,
+    "usedBy": [
+      "Overwhelm FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/REKKA-RESONANCE_FTR.mp4",
+    "kind": "gameplay",
+    "description": "REKKA RESONANCE FTR",
+    "minimumDuration": 91.5,
+    "usedBy": [
+      "REKKA RESONANCE FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/AttraqtiA_FTR.mp4",
+    "kind": "gameplay",
+    "description": "AttraqtiA FTR",
+    "minimumDuration": 70.566667,
+    "usedBy": [
+      "AttraqtiA FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Arcana-Eden_BYD.mp4",
+    "kind": "gameplay",
+    "description": "Arcana Eden BYD",
+    "minimumDuration": 164.066667,
+    "usedBy": [
+      "Arcana Eden BYD"
+    ]
+  },
+  {
+    "file": "assets/backgrounds/background-02.jpg",
+    "kind": "backgrounds",
+    "description": "Arcana Eden BYD 本曲背景",
+    "minimumDuration": 0,
+    "usedBy": [
+      "Arcana Eden BYD 本曲背景",
+      "Arcana Eden FTR 本曲背景"
+    ]
+  },
+  {
+    "file": "assets/gameplay/To-the-Milky-Way_FTR.mp4",
+    "kind": "gameplay",
+    "description": "To the Milky Way FTR",
+    "minimumDuration": 98.333333,
+    "usedBy": [
+      "To the Milky Way FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Vicious-ANTi-Heroism_BYD.mp4",
+    "kind": "gameplay",
+    "description": "Vicious [ANTi] Heroism BYD",
+    "minimumDuration": 143.8,
+    "usedBy": [
+      "Vicious [ANTi] Heroism BYD"
+    ]
+  },
+  {
+    "file": "assets/backgrounds/background-03.jpg",
+    "kind": "backgrounds",
+    "description": "Vicious [ANTi] Heroism BYD 本曲背景",
+    "minimumDuration": 0,
+    "usedBy": [
+      "Vicious [ANTi] Heroism BYD 本曲背景"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Axium-Crisis_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Axium Crisis FTR",
+    "minimumDuration": 93.333333,
+    "usedBy": [
+      "Axium Crisis FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/uar-ina_FTR.mp4",
+    "kind": "gameplay",
+    "description": "γuarδina FTR",
+    "minimumDuration": 77.283333,
+    "usedBy": [
+      "γuarδina FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Halcyon_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Halcyon FTR",
+    "minimumDuration": 115.9,
+    "usedBy": [
+      "Halcyon FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Judgement_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Judgement FTR",
+    "minimumDuration": 111.283333,
+    "usedBy": [
+      "Judgement FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/ALTER-EGO_FTR.mp4",
+    "kind": "gameplay",
+    "description": "ALTER EGO FTR",
+    "minimumDuration": 87.8,
+    "usedBy": [
+      "ALTER EGO FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Placebo-Battler_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Placebo♥Battler FTR",
+    "minimumDuration": 92.799,
+    "usedBy": [
+      "Placebo♥Battler FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Last-Celebration_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Last Celebration FTR",
+    "minimumDuration": 93.533333,
+    "usedBy": [
+      "Last Celebration FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Wish-Upon-a-Snow_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Wish Upon a Snow FTR",
+    "minimumDuration": 127.033333,
+    "usedBy": [
+      "Wish Upon a Snow FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Dantalion_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Dantalion FTR",
+    "minimumDuration": 118.75,
+    "usedBy": [
+      "Dantalion FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/GENOCIDER_FTR.mp4",
+    "kind": "gameplay",
+    "description": "GENOCIDER FTR",
+    "minimumDuration": 95.2,
+    "usedBy": [
+      "GENOCIDER FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/KYOREN-ROMANCE_FTR.mp4",
+    "kind": "gameplay",
+    "description": "KYOREN ROMANCE FTR",
+    "minimumDuration": 131.616667,
+    "usedBy": [
+      "KYOREN ROMANCE FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Viyella-s-Tears_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Viyella's Tears FTR",
+    "minimumDuration": 107.45,
+    "usedBy": [
+      "Viyella's Tears FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Libertas_BYD.mp4",
+    "kind": "gameplay",
+    "description": "Libertas BYD",
+    "minimumDuration": 102.5,
+    "usedBy": [
+      "Libertas BYD"
+    ]
+  },
+  {
+    "file": "assets/backgrounds/background-04.jpg",
+    "kind": "backgrounds",
+    "description": "Libertas BYD 本曲背景",
+    "minimumDuration": 0,
+    "usedBy": [
+      "Libertas BYD 本曲背景",
+      "Singularity FTR 本曲背景",
+      "Singularity VVVIP BYD 本曲背景"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Lilly_ETR.mp4",
+    "kind": "gameplay",
+    "description": "Lilly ETR",
+    "minimumDuration": 122.25,
+    "usedBy": [
+      "Lilly ETR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Cyaegha_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Cyaegha FTR",
+    "minimumDuration": 94.133333,
+    "usedBy": [
+      "Cyaegha FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Garakuta-Doll-Play_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Garakuta Doll Play FTR",
+    "minimumDuration": 50.733333,
+    "usedBy": [
+      "Garakuta Doll Play FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/ouroboros-twin-stroke-of-the-end_FTR.mp4",
+    "kind": "gameplay",
+    "description": "ouroboros -twin stroke of the end- FTR",
+    "minimumDuration": 77.75,
+    "usedBy": [
+      "ouroboros -twin stroke of the end- FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Singularity_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Singularity FTR",
+    "minimumDuration": 95,
+    "usedBy": [
+      "Singularity FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Don-t-Fight-The-Music_ETR.mp4",
+    "kind": "gameplay",
+    "description": "Don't Fight The Music ETR",
+    "minimumDuration": 148.066667,
+    "usedBy": [
+      "Don't Fight The Music ETR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/LAMIA_FTR.mp4",
+    "kind": "gameplay",
+    "description": "LAMIA FTR",
+    "minimumDuration": 137.166667,
+    "usedBy": [
+      "LAMIA FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Climax_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Climax FTR",
+    "minimumDuration": 63.116667,
+    "usedBy": [
+      "Climax FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/PRIMITIVE-LIGHTS_FTR.mp4",
+    "kind": "gameplay",
+    "description": "PRIMITIVE LIGHTS FTR",
+    "minimumDuration": 158,
+    "usedBy": [
+      "PRIMITIVE LIGHTS FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/GLORY-ROAD_FTR.mp4",
+    "kind": "gameplay",
+    "description": "GLORY：ROAD FTR",
+    "minimumDuration": 79.533333,
+    "usedBy": [
+      "GLORY：ROAD FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Lament-Rain_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Lament Rain FTR",
+    "minimumDuration": 170.5,
+    "usedBy": [
+      "Lament Rain FTR"
+    ]
+  },
+  {
+    "file": "assets/backgrounds/background-05.jpg",
+    "kind": "backgrounds",
+    "description": "Lament Rain FTR 本曲背景",
+    "minimumDuration": 0,
+    "usedBy": [
+      "Lament Rain FTR 本曲背景"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Rays-of-Remnant_BYD.mp4",
+    "kind": "gameplay",
+    "description": "Rays of Remnant BYD",
+    "minimumDuration": 58.566667,
+    "usedBy": [
+      "Rays of Remnant BYD"
+    ]
+  },
+  {
+    "file": "assets/gameplay/corps-sans-organes_FTR.mp4",
+    "kind": "gameplay",
+    "description": "corps-sans-organes FTR",
+    "minimumDuration": 50.7,
+    "usedBy": [
+      "corps-sans-organes FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Ego-Eimi_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Ego Eimi FTR",
+    "minimumDuration": 149.766667,
+    "usedBy": [
+      "Ego Eimi FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Arcana-Eden_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Arcana Eden FTR",
+    "minimumDuration": 107.6,
+    "usedBy": [
+      "Arcana Eden FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Ether-Strike_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Ether Strike FTR",
+    "minimumDuration": 68.333333,
+    "usedBy": [
+      "Ether Strike FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Xterfusion_ETR.mp4",
+    "kind": "gameplay",
+    "description": "Xterfusion ETR",
+    "minimumDuration": 132.7,
+    "usedBy": [
+      "Xterfusion ETR"
+    ]
+  },
+  {
+    "file": "assets/backgrounds/background-06.jpg",
+    "kind": "backgrounds",
+    "description": "Xterfusion ETR 本曲背景",
+    "minimumDuration": 0,
+    "usedBy": [
+      "Xterfusion ETR 本曲背景"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Extradimensional-Cosmic-Phenomenon_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Extradimensional Cosmic Phenomenon FTR",
+    "minimumDuration": 112.083333,
+    "usedBy": [
+      "Extradimensional Cosmic Phenomenon FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Aether-Crest-Astral_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Aether Crest: Astral FTR",
+    "minimumDuration": 55.1,
+    "usedBy": [
+      "Aether Crest: Astral FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/World-Ender_BYD.mp4",
+    "kind": "gameplay",
+    "description": "World Ender BYD",
+    "minimumDuration": 103.1,
+    "usedBy": [
+      "World Ender BYD"
+    ]
+  },
+  {
+    "file": "assets/gameplay/IMPACT_BYD.mp4",
+    "kind": "gameplay",
+    "description": "IMPACT BYD",
+    "minimumDuration": 105.933333,
+    "usedBy": [
+      "IMPACT BYD"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Testify_BYD.mp4",
+    "kind": "gameplay",
+    "description": "Testify BYD",
+    "minimumDuration": 152.799,
+    "usedBy": [
+      "Testify BYD"
+    ]
+  },
+  {
+    "file": "assets/backgrounds/background-07.jpg",
+    "kind": "backgrounds",
+    "description": "Testify BYD 本曲背景",
+    "minimumDuration": 0,
+    "usedBy": [
+      "Testify BYD 本曲背景",
+      "Testify FTR 本曲背景"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Singularity-VVVIP_BYD.mp4",
+    "kind": "gameplay",
+    "description": "Singularity VVVIP BYD",
+    "minimumDuration": 104.8,
+    "usedBy": [
+      "Singularity VVVIP BYD"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Override_ETR.mp4",
+    "kind": "gameplay",
+    "description": "Override ETR",
+    "minimumDuration": 76.8,
+    "usedBy": [
+      "Override ETR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Undying-Macula_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Undying Macula FTR",
+    "minimumDuration": 90.883333,
+    "usedBy": [
+      "Undying Macula FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/99-Glooms_FTR.mp4",
+    "kind": "gameplay",
+    "description": "99 Glooms FTR",
+    "minimumDuration": 53.216667,
+    "usedBy": [
+      "99 Glooms FTR"
+    ]
+  },
+  {
+    "file": "assets/gameplay/Testify_FTR.mp4",
+    "kind": "gameplay",
+    "description": "Testify FTR",
+    "minimumDuration": 122.5,
+    "usedBy": [
+      "Testify FTR"
+    ]
+  },
+  {
+    "file": "assets/unlocks/unlock-01.mp4",
+    "kind": "unlocks",
+    "description": "testify 解锁动画",
+    "minimumDuration": 22.5,
+    "usedBy": [
+      "testify 解锁动画"
+    ]
+  },
+  {
+    "file": "assets/unlocks/unlock-02.mp4",
+    "kind": "unlocks",
+    "description": "Xterfusion 解锁动画",
+    "minimumDuration": 35.0,
+    "usedBy": [
+      "Xterfusion 解锁动画"
+    ]
+  },
+  {
+    "file": "assets/unlocks/unlock-03.mp4",
+    "kind": "unlocks",
+    "description": "lament rain 解锁动画",
+    "minimumDuration": 8.8,
+    "usedBy": [
+      "lament rain 解锁动画"
+    ]
+  },
+  {
+    "file": "assets/unlocks/unlock-04.mp4",
+    "kind": "unlocks",
+    "description": "arcana eden 解锁动画",
+    "minimumDuration": 30.3,
+    "usedBy": [
+      "arcana eden 解锁动画"
+    ]
+  },
+  {
+    "file": "assets/unlocks/unlock-05.mp4",
+    "kind": "unlocks",
+    "description": "Stasis 解锁动画",
+    "minimumDuration": 24.65,
+    "usedBy": [
+      "Stasis 解锁动画"
+    ]
+  },
+  {
+    "file": "assets/unlocks/unlock-06.mp4",
+    "kind": "unlocks",
+    "description": "invert world解锁动画示例 解锁动画",
+    "minimumDuration": 18.0,
+    "usedBy": [
+      "invert world解锁动画示例 解锁动画"
+    ]
+  },
+  {
+    "file": "assets/backgrounds/background-08.jpg",
+    "kind": "backgrounds",
+    "description": "全局背景",
+    "minimumDuration": 0,
+    "usedBy": [
+      "全局背景"
+    ]
+  }
+]
